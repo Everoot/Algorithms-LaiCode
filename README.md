@@ -246,8 +246,8 @@ Cross-training I
 - [x] 648 Lowest Common Ancestor VI (Lai) https://youtu.be/3CoJWSfg9HA
 
 Review & Strengthen
-- [ ] 56 Bipartite (Lai)
-- [ ] 785 Is Graph Bipartite?
+- [x] 56 Bipartite (Lai)
+- [x] 785 Is Graph Bipartite?
 - [ ] 65 All Permutations II (Lai)
 - [ ] 47 Permutations II
 - [ ] 121 Spiral Order Traverse I (Lai)
