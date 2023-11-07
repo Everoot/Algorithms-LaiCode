@@ -252,7 +252,7 @@ Review & Strengthen
 - [ ] 47 Permutations II
 - [x] 121 Spiral Order Traverse I (Lai) https://youtu.be/aTYyfTUgKqw
 - [x] **54 Spiral Matrix** https://youtu.be/2Elm2uxapX0
-- [ ] **59 Spiral Matrix II**
+- [x] **59 Spiral Matrix II**
 - [ ] **885 Spiral Matrix III**
 - [ ] **2326 Spiral Matrix IV**
 - [ ] 125 Rotate Matrix (Lai)
