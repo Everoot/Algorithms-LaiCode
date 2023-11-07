@@ -250,7 +250,7 @@ Review & Strengthen
 - [x] **785 Is Graph Bipartite?** https://youtu.be/R3XFyknyRjU
 - [ ] 65 All Permutations II (Lai)
 - [ ] 47 Permutations II
-- [ ] 121 Spiral Order Traverse I (Lai)
+- [x] 121 Spiral Order Traverse I (Lai) https://youtu.be/aTYyfTUgKqw
 - [x] **54 Spiral Matrix** https://youtu.be/2Elm2uxapX0
 - [ ] **59 Spiral Matrix II**
 - [ ] **885 Spiral Matrix III**
