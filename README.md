@@ -247,7 +247,7 @@ Cross-training I
 
 Review & Strengthen
 - [x] 56 Bipartite (Lai)
-- [x] 785 Is Graph Bipartite?
+- [x] 785 Is Graph Bipartite? https://youtu.be/R3XFyknyRjU
 - [ ] 65 All Permutations II (Lai)
 - [ ] 47 Permutations II
 - [ ] 121 Spiral Order Traverse I (Lai)
