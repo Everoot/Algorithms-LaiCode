@@ -253,7 +253,7 @@ Review & Strengthen
 - [x] 121 Spiral Order Traverse I (Lai) https://youtu.be/aTYyfTUgKqw
 - [x] **54 Spiral Matrix** https://youtu.be/2Elm2uxapX0
 - [x] **59 Spiral Matrix II** https://youtu.be/DGwTQop4Z8o
-- [ ] **885 Spiral Matrix III**
+- [x] **885 Spiral Matrix III** https://youtu.be/Mds70zFrGX0
 - [ ] **2326 Spiral Matrix IV**
 - [ ] 125 Rotate Matrix (Lai)
 - [ ] 197 ReOrder Array (Lai)
