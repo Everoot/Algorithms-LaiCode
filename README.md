@@ -246,15 +246,15 @@ Cross-training I
 - [x] 648 Lowest Common Ancestor VI (Lai) https://youtu.be/3CoJWSfg9HA
 
 Review & Strengthen
-- [ ] 56 Bipartite (Lai)
-- [ ] 785 Is Graph Bipartite?
+- [x] **56 Bipartite (Lai)** https://youtu.be/yA4WL_E0En0
+- [x] **785 Is Graph Bipartite?** https://youtu.be/R3XFyknyRjU
 - [ ] 65 All Permutations II (Lai)
 - [ ] 47 Permutations II
-- [ ] 121 Spiral Order Traverse I (Lai)
-- [ ] 54 Spiral Matrix
-- [ ] 59 Spiral Matrix II
-- [ ] 885 Spiral Matrix III
-- [ ] 2326 Spiral Matrix IV
+- [x] 121 Spiral Order Traverse I (Lai) https://youtu.be/aTYyfTUgKqw
+- [x] **54 Spiral Matrix** https://youtu.be/2Elm2uxapX0
+- [x] **59 Spiral Matrix II** https://youtu.be/DGwTQop4Z8o
+- [ ] **885 Spiral Matrix III**
+- [ ] **2326 Spiral Matrix IV**
 - [ ] 125 Rotate Matrix (Lai)
 - [ ] 197 ReOrder Array (Lai)
 - [ ] 1569 Number of Ways to Reorder Array to Get Same BST
