@@ -254,7 +254,7 @@ Review & Strengthen
 - [x] **54 Spiral Matrix** https://youtu.be/2Elm2uxapX0
 - [x] **59 Spiral Matrix II** https://youtu.be/DGwTQop4Z8o
 - [x] **885 Spiral Matrix III** https://youtu.be/Mds70zFrGX0
-- [ ] **2326 Spiral Matrix IV**
+- [x] **2326 Spiral Matrix IV** https://youtu.be/5QcCC8FdWwk
 - [ ] 125 Rotate Matrix (Lai)
 - [ ] 197 ReOrder Array (Lai)
 - [ ] 1569 Number of Ways to Reorder Array to Get Same BST
