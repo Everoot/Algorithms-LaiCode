@@ -258,7 +258,8 @@ Review & Strengthen
 - [ ] 125 Rotate Matrix (Lai)
 - [ ] 197 ReOrder Array (Lai)
 - [ ] 1569 Number of Ways to Reorder Array to Get Same BST
-- [ ] 48 Rotate Image
+- [x] 48 Rotate Image Solution 1 https://youtu.be/q_QMq6ATe8Y
+- [ ] 48 Rotate Image Solution 2
 - [ ] 2149 Rearrange Array Elements by Sign
 - [ ] 1528 Shuffle String
       
