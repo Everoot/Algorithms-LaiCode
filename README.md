@@ -274,12 +274,24 @@ Cross-training II
 - [ ] Deep Copy Undirected Graph
 - [ ] Closest Number In Binary Search Tree
 - [ ] Largest Number Smaller In Binary Search Tree
+- [ ] 2 Two Sum
 - [ ] 2 Sum
 - [ ] 2 Sum All Pair I
 - [ ] 2 Sum All Pair II
 - [ ] 3 Sum
+- [ ] 15 3Sum
 - [ ] 4 Sum
+- [ ] 18 4Sum
+- [ ] 167 Two Sum II - Input Array Is Sorted
+- [ ] 170 Two Sum III - Data structure design
+- [ ] 560 Subarray Sum Equals K
+- [ ] 653 Two Sum IV - Input is a BST
+- [ ] 1099 Two Sum Less Than K
+- [ ] 1679 Max Number of K-Sum Pairs
+- [ ] 1711 Count Good Meals
+- [ ] 2006 Count Number of Pairs With Absolute Difference K
 
+      
 Recursion III
 - [ ] Check If Binary Tree Is Balanced
 - [ ] Maximum Path Sum Binary Tree I
