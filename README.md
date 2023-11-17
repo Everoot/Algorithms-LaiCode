@@ -377,5 +377,17 @@ Cross-training V
 - [ ] Get Count Array
 - [ ] Longest Ascending Subsequence II
 
+Tips
+第一遍看完题目, 理解好, 直接看答案, 理解. 尝试写出来并通过.
+录视频, 不看答案, 自己写.
+
+第二遍不看答案写, 20分钟内写出来的pass. 没有的进行标注. 看答案, 继续重复第一遍的步骤
+
+第三遍不看答案写, 10分钟内写出来的pass, 没有的重复第二遍内容.
+
+第四遍只做标注过的题. 
+
+第五遍一题多解
+
 Fixed Size Sliding Windows
 - [ ] 
