@@ -1,6 +1,6 @@
 Binary Search
 
-- [x] [704 Classical Binary Search](https://youtu.be/R5A1ei2YYS8)
+- [x] 704 Classical Binary Search https://youtu.be/R5A1ei2YYS8
 - [x] 74 Search In Sorted Matrix I https://youtu.be/iXXK4m6vROU
 - [x] **240 Search In Sorted Matrix II** https://youtu.be/gNl5u5KnK8Y
 - [x] 34 Find First and Last Position of Element in Sorted Array https://youtu.be/O3rvC_OZqsE
