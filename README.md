@@ -256,7 +256,7 @@ Review & Strengthen
 - [x] 125 Rotate Matrix (Lai) https://youtu.be/AgvP-RfLeAw
 - [x] 48 Rotate Image Solution 1 https://youtu.be/q_QMq6ATe8Y
 - [x] 48 Rotate Image Solution 2 https://youtu.be/YwtmqzPP54k
-- [ ] 1528 Shuffle String
+- [x] 1528 Shuffle String https://youtu.be/reUGkuMYl9s
 - [ ] 197 ReOrder Array (Lai)
 - [ ] 1569 Number of Ways to Reorder Array to Get Same BST
 - [ ] 2149 Rearrange Array Elements by Sign
