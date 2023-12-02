@@ -257,7 +257,7 @@ Review & Strengthen
 - [x] 48 Rotate Image Solution 1 https://youtu.be/q_QMq6ATe8Y
 - [x] 48 Rotate Image Solution 2 https://youtu.be/YwtmqzPP54k
 - [x] 1528 Shuffle String https://youtu.be/reUGkuMYl9s
-- [ ] 197 ReOrder Array (Lai)
+- [ ] **197 ReOrder Array (Lai)**
 - [ ] 1569 Number of Ways to Reorder Array to Get Same BST
 - [ ] 2149 Rearrange Array Elements by Sign
 - [ ] 46 Permutations
