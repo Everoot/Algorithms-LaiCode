@@ -261,8 +261,8 @@ Review & Strengthen
 - [ ] 1569 Number of Ways to Reorder Array to Get Same BST
 - [ ] 2149 Rearrange Array Elements by Sign
 - [x] 46 Permutations https://youtu.be/kaV9mOjigLY
-- [ ] 65 All Permutations II (Lai)
-- [ ] 47 Permutations II
+- [x] 65 All Permutations II (Lai) https://youtu.be/5QVo2eVIdVY
+- [x] 47 Permutations II https://youtu.be/JfTJuko0luw
       
 Cross-training II
 - [ ] Reverse Linked List (iterative)
