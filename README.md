@@ -263,7 +263,22 @@ Review & Strengthen
 - [x] 46 Permutations https://youtu.be/kaV9mOjigLY
 - [x] 65 All Permutations II (Lai) https://youtu.be/5QVo2eVIdVY
 - [x] 47 Permutations II https://youtu.be/JfTJuko0luw
-      
+
+Recursion III
+- [ ] Check If Binary Tree Is Balanced
+- [ ] Maximum Path Sum Binary Tree I
+- [ ] Pre-order Traversal Of Binary Tree (recursive)
+- [ ] Largest SubArray Sum
+- [ ] Post-order Traversal Of Binary Tree (iterative)
+- [ ] Max Path Sum From Leaf To Root
+- [ ] Binary Tree Path Sum To Target III
+- [ ] Maximum Path Sum Binary Tree III
+- [ ] Flatten Binary Tree to Linked List
+- [ ] Reconstruct Binary Tree With Preorder And Inorder
+- [ ] Reconstruct Binary Search Tree With Postorder Traversal
+- [ ] Reconstruct Binary Tree With Levelorder And Inorder
+
+
 Cross-training II
 - [ ] Reverse Linked List (iterative)
 - [ ] Delete In Binary Search Tree
@@ -292,19 +307,7 @@ Cross-training II
 - [ ] 2006 Count Number of Pairs With Absolute Difference K
 
       
-Recursion III
-- [ ] Check If Binary Tree Is Balanced
-- [ ] Maximum Path Sum Binary Tree I
-- [ ] Pre-order Traversal Of Binary Tree (recursive)
-- [ ] Largest SubArray Sum
-- [ ] Post-order Traversal Of Binary Tree (iterative)
-- [ ] Max Path Sum From Leaf To Root
-- [ ] Binary Tree Path Sum To Target III
-- [ ] Maximum Path Sum Binary Tree III
-- [ ] Flatten Binary Tree to Linked List
-- [ ] Reconstruct Binary Tree With Preorder And Inorder
-- [ ] Reconstruct Binary Search Tree With Postorder Traversal
-- [ ] Reconstruct Binary Tree With Levelorder And Inorder
+
 
 Cross-training III
 - [ ] Merge Two Sorted Linked Lists
