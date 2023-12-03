@@ -260,7 +260,7 @@ Review & Strengthen
 - [x] **197 ReOrder Array (Lai)** https://youtu.be/0AIHg5zM5LY
 - [ ] 1569 Number of Ways to Reorder Array to Get Same BST
 - [ ] 2149 Rearrange Array Elements by Sign
-- [ ] 46 Permutations
+- [x] 46 Permutations https://youtu.be/kaV9mOjigLY
 - [ ] 65 All Permutations II (Lai)
 - [ ] 47 Permutations II
       
