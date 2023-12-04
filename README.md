@@ -265,18 +265,32 @@ Review & Strengthen
 - [x] 47 Permutations II https://youtu.be/JfTJuko0luw
 
 Recursion III
-- [ ] Check If Binary Tree Is Balanced
-- [ ] Maximum Path Sum Binary Tree I
-- [ ] Pre-order Traversal Of Binary Tree (recursive)
-- [ ] Largest SubArray Sum
-- [ ] Post-order Traversal Of Binary Tree (iterative)
-- [ ] Max Path Sum From Leaf To Root
-- [ ] Binary Tree Path Sum To Target III
-- [ ] Maximum Path Sum Binary Tree III
-- [ ] Flatten Binary Tree to Linked List
-- [ ] Reconstruct Binary Tree With Preorder And Inorder
-- [ ] Reconstruct Binary Search Tree With Postorder Traversal
-- [ ] Reconstruct Binary Tree With Levelorder And Inorder
+- [ ] 110 Balanced Binary Tree
+- [ ] 46 Check If Binary Tree Is Balanced (Lai)
+- [ ] 124 Binary Tree Maximum Path Sum
+- [ ] 138 Maximum Path Sum Binary Tree I (Lai)
+- [ ] 144 Binary Tree Preorder Traversal
+- [ ] 655 Pre-order Traversal Of Binary Tree (recursive) (Lai)
+- [ ] 53 Maximum Subarray
+- [ ] 97 Largest SubArray Sum (Lai)
+- [ ] 145 Binary Tree Postorder Traversal
+- [ ] 45 Post-order Traversal Of Binary Tree (iterative) (Lai)
+- [ ] 129 Sum Root to Leaf Numbers
+- [ ] 112 Path Sum
+- [ ] 113 Path Sum II
+- [ ] 437 Path Sum III
+- [ ] 666 Path Sum IV
+- [ ] 639 Max Path Sum From Leaf To Root (Lai)
+- [ ] 141 Binary Tree Path Sum To Target III (Lai)
+- [ ] 140 Maximum Path Sum Binary Tree III (Lai)
+- [ ] 114 Flatten Binary Tree to Linked List
+- [ ] 523 Flatten Binary Tree to Linked List (Lai)
+- [ ] 105 Construct Binary Tree from Preorder and Inorder Traversal
+- [ ] 106 Construct Binary Tree from Inorder and Postorder Traversal
+- [ ] 213 Reconstruct Binary Tree With Preorder And Inorder (Lai)
+- [ ] 211 Reconstruct Binary Search Tree With Postorder Traversal (Lai)
+- [ ] 102 Binary Tree Level Order Traversal
+- [ ] 215 Reconstruct Binary Tree With Levelorder And Inorder (Lai)
 
 
 Cross-training II
