@@ -266,8 +266,8 @@ Review & Strengthen
 
 Recursion III
 - [x] 110 Balanced Binary Tree Solution1 https://youtu.be/OJPdH-Kmd_s
-- [ ] 110 Balanced Binary Tree Solution2
-- [ ] 46 Check If Binary Tree Is Balanced (Lai)
+- [x] 110 Balanced Binary Tree Solution2 https://youtu.be/1kzw2_S4xTI
+- [x] 46 Check If Binary Tree Is Balanced (Lai)
 - [ ] 124 Binary Tree Maximum Path Sum
 - [ ] 138 Maximum Path Sum Binary Tree I (Lai)
 - [ ] 144 Binary Tree Preorder Traversal
