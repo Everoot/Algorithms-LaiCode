@@ -269,7 +269,7 @@ Recursion III
 - [x] 110 Balanced Binary Tree Solution2 https://youtu.be/1kzw2_S4xTI
 - [x] 46 Check If Binary Tree Is Balanced (Lai) https://youtu.be/_HpdEe-MRHw
 - [x] **124 Binary Tree Maximum Path Sum** https://youtu.be/cACCistj26Y
-- [ ] 138 Maximum Path Sum Binary Tree I (Lai)
+- [x] **138 Maximum Path Sum Binary Tree I (Lai)** https://youtu.be/wUnXKpyuRP4
 - [ ] 144 Binary Tree Preorder Traversal
 - [ ] 655 Pre-order Traversal Of Binary Tree (recursive) (Lai)
 - [ ] 53 Maximum Subarray
