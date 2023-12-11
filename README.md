@@ -277,7 +277,7 @@ Recursion III
 - [ ] 145 Binary Tree Postorder Traversal
 - [ ] 45 Post-order Traversal Of Binary Tree (iterative) (Lai)
 - [ ] 129 Sum Root to Leaf Numbers
-- [ ] 112 Path Sum
+- [x] 112 Path Sum https://youtu.be/sKqPu4LZ1yY
 - [ ] 113 Path Sum II
 - [ ] 437 Path Sum III
 - [ ] 666 Path Sum IV
