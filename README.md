@@ -270,8 +270,8 @@ Recursion III
 - [x] 46 Check If Binary Tree Is Balanced (Lai) https://youtu.be/_HpdEe-MRHw
 - [x] **124 Binary Tree Maximum Path Sum** https://youtu.be/cACCistj26Y
 - [x] **138 Maximum Path Sum Binary Tree I (Lai)** https://youtu.be/wUnXKpyuRP4
-- [ ] 144 Binary Tree Preorder Traversal
-- [ ] 655 Pre-order Traversal Of Binary Tree (recursive) (Lai)
+- [x] 144 Binary Tree Preorder Traversal https://youtu.be/I9TfXOeIzik
+- [x] 655 Pre-order Traversal Of Binary Tree (recursive) (Lai) https://youtu.be/jDugE91EwIc
 - [ ] 53 Maximum Subarray
 - [ ] 97 Largest SubArray Sum (Lai)
 - [ ] 145 Binary Tree Postorder Traversal
