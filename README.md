@@ -282,9 +282,9 @@ Recursion III
 - [ ] 437 **Path Sum III**
 - [ ] 666 Path Sum IV
 - [x] 639 Max Path Sum From Leaf To Root (Lai) https://youtu.be/Ipc5zGeSyto
-- [x] 141 Binary Tree Path Sum To Target III (Lai) Solution 1 https://youtu.be/z-p8af6dN9s
-- [x] 141 Binary Tree Path Sum To Target III (Lai) Solution 2 https://youtu.be/27Fl7G4VeLk
-- [ ] 140 Maximum Path Sum Binary Tree III (Lai)
+- [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 1** https://youtu.be/z-p8af6dN9s
+- [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 2** https://youtu.be/27Fl7G4VeLk
+- [ ] **140 Maximum Path Sum Binary Tree III (Lai)**
 - [ ] 114 Flatten Binary Tree to Linked List
 - [ ] 523 Flatten Binary Tree to Linked List (Lai)
 - [ ] 105 Construct Binary Tree from Preorder and Inorder Traversal
