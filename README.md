@@ -1,4 +1,4 @@
-Binary Search
+      Binary Search
 
 - [x] 704 Classical Binary Search https://youtu.be/R5A1ei2YYS8
 - [x] 74 Search In Sorted Matrix I https://youtu.be/iXXK4m6vROU
@@ -284,7 +284,7 @@ Recursion III
 - [x] 639 Max Path Sum From Leaf To Root (Lai) https://youtu.be/Ipc5zGeSyto
 - [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 1** https://youtu.be/z-p8af6dN9s
 - [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 2** https://youtu.be/27Fl7G4VeLk
-- [ ] **140 Maximum Path Sum Binary Tree III (Lai)**
+- [x] **140 Maximum Path Sum Binary Tree III (Lai)** https://youtu.be/Pl72NASr2hs
 - [ ] 114 Flatten Binary Tree to Linked List
 - [ ] 523 Flatten Binary Tree to Linked List (Lai)
 - [ ] 105 Construct Binary Tree from Preorder and Inorder Traversal
