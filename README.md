@@ -285,8 +285,8 @@ Recursion III
 - [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 1** https://youtu.be/z-p8af6dN9s
 - [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 2** https://youtu.be/27Fl7G4VeLk
 - [x] **140 Maximum Path Sum Binary Tree III (Lai)** https://youtu.be/Pl72NASr2hs
-- [ ] 114 Flatten Binary Tree to Linked List
-- [ ] 523 Flatten Binary Tree to Linked List (Lai)
+- [x] 114 Flatten Binary Tree to Linked List https://youtu.be/jddZuMCXgeg
+- [x] 523 Flatten Binary Tree to Linked List (Lai) https://youtu.be/nmFlAU5z0SI
 - [ ] 105 Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] 106 Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 213 Reconstruct Binary Tree With Preorder And Inorder (Lai)
