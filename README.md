@@ -288,9 +288,9 @@ Recursion III
 - [x] 114 Flatten Binary Tree to Linked List https://youtu.be/jddZuMCXgeg
 - [x] 523 Flatten Binary Tree to Linked List (Lai) https://youtu.be/nmFlAU5z0SI
 - [x] 105 **Construct Binary Tree from Preorder and Inorder Traversal** https://youtu.be/Q9PSkmCgRDs
-- [ ] 106 Construct Binary Tree from Inorder and Postorder Traversal
-- [ ] 213 Reconstruct Binary Tree With Preorder And Inorder (Lai)
-- [ ] 211 Reconstruct Binary Search Tree With Postorder Traversal (Lai)
+- [x] 106 Construct Binary Tree from Inorder and Postorder Traversal
+- [x] 213 Reconstruct Binary Tree With Preorder And Inorder (Lai)
+- [x] 211 Reconstruct Binary Search Tree With Postorder Traversal (Lai)
 - [ ] 102 Binary Tree Level Order Traversal
 - [ ] 215 Reconstruct Binary Tree With Levelorder And Inorder (Lai)
 
