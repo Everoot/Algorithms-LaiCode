@@ -4,7 +4,7 @@ Given a binary tree in which each node contains an integer number. Determine if 
 
 **Examples**
 
-  5
+   5
 
  /   \
 

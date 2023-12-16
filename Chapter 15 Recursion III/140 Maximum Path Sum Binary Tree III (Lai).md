@@ -1,6 +1,6 @@
 # 140 Maximum Path Sum Binary Tree III (Lai)
 
-Given a binary tree in which each node contains an integer number. Find the maximum possible subpath sum**(both the starting and ending node of the subpath should be on the same path from root to one of the leaf nodes, and the subpath is allowed to contain only one node).**
+Given a binary tree in which each node contains an integer number. Find the maximum possible subpath sum **(both the starting and ending node of the subpath should be on the same path from root to one of the leaf nodes, and the subpath is allowed to contain only one node).**
 
 **Assumptions**
 
@@ -14,13 +14,13 @@ Given a binary tree in which each node contains an integer number. Find the maxi
 
 2    11
 
-   /   \
+​     /   \
 
-  6   14
+​    6   14
 
-​      /
+​         /
 
-​    -3
+​      -3
 
 The maximum path sum is 11 + 14 = 25
 
@@ -36,7 +36,7 @@ The sequence [1, 2, 3, #, #, 4] represents the following binary tree:
 
  /  \
 
- 2   3
+2   3
 
    /
 
@@ -50,6 +50,60 @@ The sequence [1, 2, 3, #, #, 4] represents the following binary tree:
 
 -> Maximum Subarray Sum
 
+
+
 ```java
+/**
+ * public class TreeNode {
+ *   public int key;
+ *   public TreeNode left;
+ *   public TreeNode right;
+ *   public TreeNode(int key) {
+ *     this.key = key;
+ *   }
+ * }
+ */
+public class Solution {
+  public int maxPathSum(TreeNode root) {
+    // Write your solution here
+    if (root.left == null && root.right == null){
+      return root.key;
+    }
+
+    int[] max = new int[]{Integer.MIN_VALUE};
+    helper(root, max);
+    return max[0];
+  }
+
+  private static int helper(TreeNode root, int[] max){
+    if (root == null){
+      return 0;
+    }
+
+    int left = helper(root.left, max);
+    int right = helper(root.right, max);
+
+    int LeftOrRight = Math.max(left, right);
+    int DongShanZaiQi = Math.max(LeftOrRight, 0);
+    int result = DongShanZaiQi + root.key;
+
+    // update max
+    max[0] = Math.max(max[0], result);
+    return result;
+  }
+}
+// TC: O(n)
+// SC: O(n)
+
+
 ```
 
+
+
+Summary: 
+
+题目让不让拐弯: 要不要求root to leaf
+
+求的一定是: 直上直下的
+
+如果题目要求的就是直上直下的: 对应array的题 prefixSum DP...
