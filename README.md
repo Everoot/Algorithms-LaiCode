@@ -292,7 +292,7 @@ Recursion III
 - [x] 213 Reconstruct Binary Tree With Preorder And Inorder (Lai) https://youtu.be/24Z1ekxfpgk
 - [x] 211 Reconstruct Binary Search Tree With Postorder Traversal (Lai) https://youtu.be/-GFz69EB808
 - [x] 102 Binary Tree Level Order Traversal https://youtu.be/M--egQrbBMY
-- [x] **215 Reconstruct Binary Tree With Levelorder And Inorder** (Lai)
+- [x] **215 Reconstruct Binary Tree With Levelorder And Inorder** (Lai) https://youtu.be/lHKdRubqMos
 
 
 Cross-training II
