@@ -314,8 +314,10 @@ Cross-training II
 - [ ] 135 Closest Number In Binary Search Tree (Lai)
 - [ ] 230 Kth Smallest Element in a BST
 - [ ] 136 Largest Number Smaller In Binary Search Tree (Lai)
-- [ ] 1 Two Sum
-- [ ] 180 Two Sum (Lai)
+- [x] 1 Two Sum https://youtu.be/PhrV14iig34
+- [x] 1 Two Sum (Map) https://youtu.be/cYgDPyG-ZXI
+- [x] 180 Two Sum (Lai)https://youtu.be/wcCsPMroGk4
+- [x] 180 Two Sum (Set) (Lai) https://youtu.be/4X1IOr2k-bk
 - [ ] 181 2 Sum All Pair I (Lai)
 - [ ] 182 2 Sum All Pair II (Lai)
 - [ ] 15 3Sum
