@@ -275,7 +275,7 @@ Recursion III
 - [x] 53 Maximum Subarray https://youtu.be/xnz2UzvyCCw
 - [x] 97 Largest SubArray Sum (Lai) https://youtu.be/8FK6jNCqbTM
 - [x] 145 Binary Tree Postorder Traversal https://youtu.be/t5PVHhsflLs
-- [ ] 45 Post-order Traversal Of Binary Tree (iterative) (Lai)
+- [x] 45 Post-order Traversal Of Binary Tree (iterative) (Lai) https://youtu.be/6_pE8WRcLKU
 - [ ] 129 Sum Root to Leaf Numbers
 - [x] 112 Path Sum https://youtu.be/sKqPu4LZ1yY
 - [x] 113 Path Sum II https://youtu.be/4RlfC7R56kw
