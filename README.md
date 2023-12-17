@@ -296,23 +296,32 @@ Recursion III
 
 
 Cross-training II
-- [ ] Reverse Linked List (iterative)
-- [ ] Delete In Binary Search Tree
-- [ ] Search In Binary Search Tree
-- [ ] Merge Sort
-- [ ] Quick Sort
-- [ ] Deep Copy Linked List With Random Pointer
-- [ ] Deep Copy Undirected Graph
-- [ ] Closest Number In Binary Search Tree
-- [ ] Largest Number Smaller In Binary Search Tree
-- [ ] 2 Two Sum
-- [ ] 2 Sum
-- [ ] 2 Sum All Pair I
-- [ ] 2 Sum All Pair II
-- [ ] 3 Sum
+- [ ] 206 Reverse Linked List
+- [ ] 34 Reverse Linked List (iterative) (Lai)
+- [ ] 450 Delete Node in a BST
+- [ ] 53 Delete In Binary Search Tree (Lai)
+- [ ] 700 Search in a Binary Search Tree
+- [ ] 52 Search In Binary Search Tree
+- [ ] 912 Sort an Array (Merge Sort)
+- [ ] 9 Merge Sort (Lai)
+- [ ] 912 Sort an Array (Quick Sort)
+- [ ] 10 Quick Sort (Lai)
+- [ ] 138 Copy List with Random Pointer
+- [ ] 131 Deep Copy Linked List With Random Pointer (Lai)
+- [ ] 133 Clone Graph
+- [ ] 132 Deep Copy Undirected Graph (Lai)
+- [ ] 270 Closest Binary Search Tree Value 
+- [ ] 135 Closest Number In Binary Search Tree (Lai)
+- [ ] 230 Kth Smallest Element in a BST
+- [ ] 136 Largest Number Smaller In Binary Search Tree (Lai)
+- [ ] 1 Two Sum
+- [ ] 180 Two Sum (Lai)
+- [ ] 181 2 Sum All Pair I (Lai)
+- [ ] 182 2 Sum All Pair II (Lai)
 - [ ] 15 3Sum
-- [ ] 4 Sum
+- [ ] 186 3 Sum (Lai)
 - [ ] 18 4Sum
+- [ ] 188 4 Sum (Lai)
 - [ ] 167 Two Sum II - Input Array Is Sorted
 - [ ] 170 Two Sum III - Data structure design
 - [ ] 560 Subarray Sum Equals K
