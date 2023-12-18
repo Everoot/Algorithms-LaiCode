@@ -296,8 +296,8 @@ Recursion III
 
 
 Cross-training II
-- [ ] 206 Reverse Linked List
-- [ ] 34 Reverse Linked List (iterative) (Lai)
+- [x] 206 Reverse Linked List https://youtu.be/esclzKEbM2E
+- [x] 34 Reverse Linked List (iterative) (Lai) https://youtu.be/1xH3JFYvXxg
 - [ ] 450 Delete Node in a BST
 - [ ] 53 Delete In Binary Search Tree (Lai)
 - [ ] 700 Search in a Binary Search Tree
