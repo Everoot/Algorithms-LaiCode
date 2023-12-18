@@ -280,7 +280,7 @@ Recursion III
 - [x] 112 Path Sum https://youtu.be/sKqPu4LZ1yY
 - [x] 113 Path Sum II https://youtu.be/4RlfC7R56kw
 - [x] 437 **Path Sum III** https://youtu.be/M5cyud9xGoE
-- [x] 666 Path Sum IV 
+- [x] 666 Path Sum IV https://youtu.be/bo6eCZLfSKY
 - [x] 639 Max Path Sum From Leaf To Root (Lai) https://youtu.be/Ipc5zGeSyto
 - [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 1** https://youtu.be/z-p8af6dN9s
 - [x] **141 Binary Tree Path Sum To Target III (Lai) Solution 2** https://youtu.be/27Fl7G4VeLk
