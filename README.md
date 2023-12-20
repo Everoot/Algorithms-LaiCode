@@ -302,8 +302,8 @@ Cross-training II
 - [x] 53 Delete In Binary Search Tree (Lai) https://youtu.be/YibO4Jtpon8
 - [x] 700 Search in a Binary Search Tree https://youtu.be/llaNM-0Olj4
 - [x] 52 Search In Binary Search Tree (Lai) https://youtu.be/5MSdpJj38h4
-- [ ] 912 Sort an Array (Merge Sort)
-- [ ] 9 Merge Sort (Lai)
+- [x] 912 Sort an Array (Merge Sort) https://youtu.be/YsqelxkuonU
+- [x] 9 Merge Sort (Lai) https://youtu.be/Zc1O6FHA73g
 - [ ] 912 Sort an Array (Quick Sort)
 - [ ] 10 Quick Sort (Lai)
 - [ ] 138 Copy List with Random Pointer
