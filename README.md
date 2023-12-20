@@ -304,8 +304,8 @@ Cross-training II
 - [x] 52 Search In Binary Search Tree (Lai) https://youtu.be/5MSdpJj38h4
 - [x] 912 Sort an Array (Merge Sort) https://youtu.be/YsqelxkuonU
 - [x] 9 Merge Sort (Lai) https://youtu.be/Zc1O6FHA73g
-- [ ] 912 Sort an Array (Quick Sort)
-- [ ] 10 Quick Sort (Lai)
+- [x] 912 Sort an Array (Quick Sort) https://youtu.be/1ZNQctJ5Vew
+- [x] 10 Quick Sort (Lai) https://youtu.be/bpbc9PVevKk
 - [ ] 138 Copy List with Random Pointer
 - [ ] 131 Deep Copy Linked List With Random Pointer (Lai)
 - [ ] 133 Clone Graph
