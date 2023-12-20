@@ -298,10 +298,10 @@ Recursion III
 Cross-training II
 - [x] 206 Reverse Linked List https://youtu.be/esclzKEbM2E
 - [x] 34 Reverse Linked List (iterative) (Lai) https://youtu.be/1xH3JFYvXxg
-- [x] 450 Delete Node in a BST https://youtu.be/6UqO_wcKyvM
+- [x]** 450 Delete Node in a BST** https://youtu.be/6UqO_wcKyvM
 - [x] 53 Delete In Binary Search Tree (Lai) https://youtu.be/YibO4Jtpon8
-- [ ] 700 Search in a Binary Search Tree
-- [ ] 52 Search In Binary Search Tree
+- [x] 700 Search in a Binary Search Tree https://youtu.be/llaNM-0Olj4
+- [x] 52 Search In Binary Search Tree (Lai) https://youtu.be/5MSdpJj38h4
 - [ ] 912 Sort an Array (Merge Sort)
 - [ ] 9 Merge Sort (Lai)
 - [ ] 912 Sort an Array (Quick Sort)
