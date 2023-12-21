@@ -306,8 +306,8 @@ Cross-training II
 - [x] 9 Merge Sort (Lai) https://youtu.be/Zc1O6FHA73g
 - [x] 912 Sort an Array (Quick Sort) https://youtu.be/1ZNQctJ5Vew
 - [x] 10 Quick Sort (Lai) https://youtu.be/bpbc9PVevKk
-- [ ] 138 Copy List with Random Pointer
-- [ ] 131 Deep Copy Linked List With Random Pointer (Lai)
+- [x] 138 Copy List with Random Pointer https://youtu.be/D7nyu89mFW8
+- [x] 131 Deep Copy Linked List With Random Pointer (Lai) https://youtu.be/xw5cT0qN190
 - [ ] 133 Clone Graph
 - [ ] 132 Deep Copy Undirected Graph (Lai)
 - [ ] 270 Closest Binary Search Tree Value 
