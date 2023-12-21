@@ -308,7 +308,7 @@ Cross-training II
 - [x] 10 Quick Sort (Lai) https://youtu.be/bpbc9PVevKk
 - [x] 138 Copy List with Random Pointer https://youtu.be/D7nyu89mFW8
 - [x] 131 Deep Copy Linked List With Random Pointer (Lai) https://youtu.be/xw5cT0qN190
-- [ ] 133 Clone Graph
+- [x] 133 Clone Graph https://youtu.be/PGlrfy7_zA0
 - [ ] 132 Deep Copy Undirected Graph (Lai)
 - [ ] 270 Closest Binary Search Tree Value 
 - [ ] 135 Closest Number In Binary Search Tree (Lai)
@@ -334,20 +334,31 @@ Cross-training II
 - [ ] 2006 Count Number of Pairs With Absolute Difference K
 
 Cross-training III
-- [ ] Merge Two Sorted Linked Lists
-- [ ] Common Numbers Of Two Sorted Arrays(Array version)
-- [ ] Remove Adjacent Repeated Characters IV
-- [ ] Longest Consecutive 1s
-- [ ] Top K Frequent Words
-- [ ] Common Numbers Of Two Arrays I(Array version)
-- [ ] Common Numbers Of Two Arrays II(Array version)
-- [ ] Max Water Trapped I
-- [ ] Most Points On A Line
-- [ ] Merge K Sorted Array
-- [ ] Merge K Sorted Lists
-- [ ] Common Elements In Three Sorted Array
-- [ ] Common Elements In K Sorted Lists
-- [ ] Max Water Trapped II
+- [ ] 21 Merge Two Sorted Lists
+- [ ] 40 Merge Two Sorted Linked Lists (Lai)
+- [ ] 2956 Find Common Elements Between Two Arrays
+- [ ] 349 Intersection of Two Arrays
+- [ ] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai)
+- [ ] 1047 Remove All Adjacent Duplicates In String
+- [ ] 82 Remove Adjacent Repeated Characters IV (Lai)
+- [ ] 485 Max Consecutive Ones
+- [ ] 103 Longest Consecutive 1s (Lai)
+- [ ] 692 Top K Frequent Words
+- [ ] 67 Top K Frequent Words (Lai)
+- [ ] 650 Common Numbers Of Two Arrays I(Array version) (Lai)
+- [ ] 651 Common Numbers Of Two Arrays II(Array version) (Lai)
+- [ ] 42 Trapping Rain Water
+- [ ] 407 Trapping Rain Water II
+- [ ] 199 Max Water Trapped I (Lai)
+- [ ] 200 Max Water Trapped II (Lai)
+- [ ] 149 Max Points on a Line
+- [ ] 216 Most Points On A Line (Lai)
+- [ ] 133 Merge K Sorted Array (Lai)
+- [ ] 23 Merge k Sorted Lists
+- [ ] 134 Merge K Sorted Lists (Lai)
+- [ ] 171 Common Elements In Three Sorted Array (Lai)
+- [ ] 644 Common Elements In K Sorted Lists (Lai)
+      
 
 Graph Search Algorithms III
 - [ ] Bipartite
