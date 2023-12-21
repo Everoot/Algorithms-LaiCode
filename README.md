@@ -295,6 +295,7 @@ Recursion III
 - [x] **215 Reconstruct Binary Tree With Levelorder And Inorder** (Lai) https://youtu.be/lHKdRubqMos
 
 
+Dec 21
 Cross-training II
 - [x] 206 Reverse Linked List https://youtu.be/esclzKEbM2E
 - [x] 34 Reverse Linked List (iterative) (Lai) https://youtu.be/1xH3JFYvXxg
@@ -360,6 +361,7 @@ Cross-training III
 - [ ] 644 Common Elements In K Sorted Lists (Lai)
       
 
+Dec 22
 Graph Search Algorithms III
 - [ ] Bipartite
 - [ ] Check If Binary Tree Is Completed
@@ -376,6 +378,7 @@ Graph Search Algorithms III
 - [ ] Course Schedule II
 - [ ] Alien Dictionary
 
+Dec 23
 Cross-training IV
 - [ ] Classical Binary Search
 - [ ] K Smallest In Unsorted Array
@@ -390,6 +393,7 @@ Cross-training IV
 - [ ] Majority Number II
 - [ ] Majority Number III
 
+Dec 24
 Dynamic Programming IV
 - [ ] Longest Ascending SubArray
 - [ ] Smallest Element Larger than Target
@@ -403,9 +407,11 @@ Dynamic Programming IV
 - [ ] Cutting Wood I
 - [ ] Can I Win II
 
+Dec 25
 Trie
 - [ ] Word Search II
 
+Dec 26
 Cross-training V
 - [ ] Largest Rectangle In Histogram
 - [ ] Maximum Values Of Size K Sliding Windows
@@ -427,5 +433,6 @@ Tips
 
 第五遍一题多解
 
+Dec 27
 Fixed Size Sliding Windows
 - [ ] 
