@@ -310,10 +310,10 @@ Cross-training II
 - [x] 138 Copy List with Random Pointer https://youtu.be/D7nyu89mFW8
 - [x] 131 Deep Copy Linked List With Random Pointer (Lai) https://youtu.be/xw5cT0qN190
 - [x] 133 Clone Graph https://youtu.be/PGlrfy7_zA0
-- [ ] 132 Deep Copy Undirected Graph (Lai)
-- [ ] 270 Closest Binary Search Tree Value 
-- [ ] 135 Closest Number In Binary Search Tree (Lai)
-- [ ] 230 Kth Smallest Element in a BST
+- [x] 132 Deep Copy Undirected Graph (Lai) https://youtu.be/Xtt_OKZRPW4
+- [x] 270 Closest Binary Search Tree Value https://youtu.be/ayRxL8n1Dsk
+- [x] 135 Closest Number In Binary Search Tree (Lai) https://youtu.be/MiP5bPgvV08
+- [x] 230 Kth Smallest Element in a BST https://youtu.be/2JN99FqQhOw
 - [ ] 136 Largest Number Smaller In Binary Search Tree (Lai)
 - [x] 1 Two Sum https://youtu.be/PhrV14iig34
 - [x] 1 Two Sum (Map) https://youtu.be/cYgDPyG-ZXI
