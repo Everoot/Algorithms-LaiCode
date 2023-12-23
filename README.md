@@ -314,7 +314,7 @@ Cross-training II
 - [x] 270 Closest Binary Search Tree Value https://youtu.be/ayRxL8n1Dsk
 - [x] 135 Closest Number In Binary Search Tree (Lai) https://youtu.be/MiP5bPgvV08
 - [x] 230 Kth Smallest Element in a BST https://youtu.be/2JN99FqQhOw
-- [ ] 136 Largest Number Smaller In Binary Search Tree (Lai)
+- [x] 136 Largest Number Smaller In Binary Search Tree (Lai) https://youtu.be/72gUHupcOok
 - [x] 1 Two Sum https://youtu.be/PhrV14iig34
 - [x] 1 Two Sum (Map) https://youtu.be/cYgDPyG-ZXI
 - [x] 180 Two Sum (Lai)https://youtu.be/wcCsPMroGk4
