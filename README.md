@@ -319,8 +319,8 @@ Cross-training II
 - [x] 1 Two Sum (Map) https://youtu.be/cYgDPyG-ZXI
 - [x] 180 Two Sum (Lai)https://youtu.be/wcCsPMroGk4
 - [x] 180 Two Sum (Set) (Lai) https://youtu.be/4X1IOr2k-bk
-- [ ] 181 2 Sum All Pair I (Lai)
-- [ ] 182 2 Sum All Pair II (Lai)
+- [x] 181 2 Sum All Pair I (Lai) https://youtu.be/t9VC0Ym4ElQ
+- [x] 182 2 Sum All Pair II (Lai) https://youtu.be/g0IZs2jvr0I
 - [ ] 15 3Sum
 - [ ] 186 3 Sum (Lai)
 - [ ] 18 4Sum
