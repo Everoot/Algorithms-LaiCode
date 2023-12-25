@@ -323,8 +323,8 @@ Cross-training II
 - [x] 182 2 Sum All Pair II (Lai) https://youtu.be/g0IZs2jvr0I
 - [x] 15 3Sum https://youtu.be/jmI3iAywDE4
 - [x] 186 3 Sum (Lai) https://youtu.be/X9OOsZMklDY
-- [ ] **18 4Sum**
-- [ ] **188 4 Sum (Lai)**
+- [x] **18 4Sum** https://youtu.be/Vhe_jR57NiA
+- [x] **188 4 Sum (Lai)** https://youtu.be/0WWazBVTnSE
 - [ ] 167 Two Sum II - Input Array Is Sorted
 - [ ] 170 Two Sum III - Data structure design
 - [ ] 560 Subarray Sum Equals K
