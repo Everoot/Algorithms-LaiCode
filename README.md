@@ -331,7 +331,7 @@ Cross-training II
 - [x] 653 Two Sum IV - Input is a BST https://youtu.be/Jt1OnThPw3Y
 - [x] 1099 Two Sum Less Than K https://youtu.be/jUvSCELuLpA
 - [x] 1679 Max Number of K-Sum Pairs https://youtu.be/v9tl8diU0ws
-- [ ] 1711 Count Good Meals
+- [x] 1711 Count Good Meals https://youtu.be/IvC7Khbnxhc
 - [x] 2006 Count Number of Pairs With Absolute Difference K https://youtu.be/PrqzTSuq12Y
 
 Cross-training III
