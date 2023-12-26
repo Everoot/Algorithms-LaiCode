@@ -327,7 +327,7 @@ Cross-training II
 - [x] **188 4 Sum (Lai)** https://youtu.be/0WWazBVTnSE
 - [x] 167 Two Sum II - Input Array Is Sorted https://youtu.be/FHUEngnWFGY
 - [x] 170 Two Sum III - Data structure design https://youtu.be/CvM3BN1eR9c
-- [ ] 560 Subarray Sum Equals K
+- [x] 560 Subarray Sum Equals K https://youtu.be/RavoWauu1FI
 - [ ] 653 Two Sum IV - Input is a BST
 - [ ] 1099 Two Sum Less Than K
 - [ ] 1679 Max Number of K-Sum Pairs
