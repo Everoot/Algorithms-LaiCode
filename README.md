@@ -329,10 +329,10 @@ Cross-training II
 - [x] 170 Two Sum III - Data structure design https://youtu.be/CvM3BN1eR9c
 - [x] 560 **Subarray Sum Equals K** https://youtu.be/RavoWauu1FI
 - [x] 653 Two Sum IV - Input is a BST https://youtu.be/Jt1OnThPw3Y
-- [ ] 1099 Two Sum Less Than K
-- [ ] 1679 Max Number of K-Sum Pairs
+- [x] 1099 Two Sum Less Than K https://youtu.be/jUvSCELuLpA
+- [x] 1679 Max Number of K-Sum Pairs https://youtu.be/v9tl8diU0ws
 - [ ] 1711 Count Good Meals
-- [ ] 2006 Count Number of Pairs With Absolute Difference K
+- [x] 2006 Count Number of Pairs With Absolute Difference K https://youtu.be/PrqzTSuq12Y
 
 Cross-training III
 - [ ] 21 Merge Two Sorted Lists
