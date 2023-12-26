@@ -32,5 +32,34 @@ Explanation: The good meals are (1,1) with 3 ways, (1,3) with 9 ways, and (1,7) 
 **Solution**
 
 ```java
+class Solution {
+    int mod = (int) 1e9 + 7; //Math.pow(10,9) + 7;
+    public int countPairs(int[] deliciousness) {
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+
+        int result = 0;
+        for (int i = 0; i < deliciousness.length; i++){
+            int power = 1;
+            for (int j = 0; j < 22; j++){
+                if (map.containsKey(power - deliciousness[i])){
+                    result = result + map.get(power - deliciousness[i]);
+                    result = result % mod;
+                  /*
+                  Given an array of integers `deliciousness` where `deliciousness[i]` is the deliciousness of the `ith` item of food, return *the number of different **good meals** you can make from this list modulo* `109 + 7`.
+                  */
+                }
+                power = power * 2;
+            }
+
+            map.put(deliciousness[i], map.getOrDefault(deliciousness[i],0) + 1);
+
+        }
+        return result;
+        
+    }
+}
+
+// TC: O(22n) = O(n)
+// SC: O(n)
 ```
 
