@@ -340,8 +340,8 @@ Cross-training III
 - [x] 2956 Find Common Elements Between Two Arrays https://youtu.be/VRjJZ0P8x_s
 - [x] 349 Intersection of Two Arrays https://youtu.be/yYLhyEiPdMo
 - [x] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai) https://youtu.be/F1LcKnjyv6s
-- [ ] 1047 Remove All Adjacent Duplicates In String
-- [ ] 82 Remove Adjacent Repeated Characters IV (Lai)
+- [ ] 1047 **Remove All Adjacent Duplicates In String**
+- [ ] 82 **Remove Adjacent Repeated Characters IV** (Lai)
 - [ ] 485 Max Consecutive Ones
 - [ ] 103 Longest Consecutive 1s (Lai)
 - [ ] 692 Top K Frequent Words
@@ -361,7 +361,7 @@ Cross-training III
 - [ ] 644 Common Elements In K Sorted Lists (Lai)
       
 
-Dec 22
+Dec 28
 Graph Search Algorithms III
 - [ ] 785 Is Graph Bipartite?
 - [ ] 56 Bipartite (Lai)
@@ -399,7 +399,7 @@ Graph Search Algorithms III
 - [ ] 430 Course Schedule II (Lai)
 - [ ] 269 Alien Dictionary
 
-Dec 23
+Dec 29
 Cross-training IV
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
@@ -426,7 +426,7 @@ Cross-training IV
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
 
 
-Dec 24
+Dec 30
 Dynamic Programming IV
 - [ ] 300 Longest Increasing Subsequence
 - [ ] 2407 Longest Increasing Subsequence II
@@ -458,13 +458,13 @@ Dynamic Programming IV
 - [ ] 375 Guess Number Higher or Lower II
 - [ ] 657 Can I Win II (Lai)
 
-Dec 25
+Dec 31
 Trie
 - [ ] 79 Word Search
 - [ ] 212 Word Search II
 - [ ] 431 Word Search II (Lai)
 
-Dec 26
+Dec 31
 Cross-training V
 - [ ] 84 Largest Rectangle in Histogram
 - [ ] 198 Largest Rectangle In Histogram (Lai)
