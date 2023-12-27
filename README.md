@@ -337,9 +337,9 @@ Cross-training II
 Cross-training III
 - [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
 - [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
-- [ ] 2956 Find Common Elements Between Two Arrays
-- [ ] 349 Intersection of Two Arrays
-- [ ] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai)
+- [x] 2956 Find Common Elements Between Two Arrays https://youtu.be/VRjJZ0P8x_s
+- [x] 349 Intersection of Two Arrays
+- [x] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai) https://youtu.be/F1LcKnjyv6s
 - [ ] 1047 Remove All Adjacent Duplicates In String
 - [ ] 82 Remove Adjacent Repeated Characters IV (Lai)
 - [ ] 485 Max Consecutive Ones
