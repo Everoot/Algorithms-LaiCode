@@ -335,8 +335,8 @@ Cross-training II
 - [x] 2006 Count Number of Pairs With Absolute Difference K https://youtu.be/PrqzTSuq12Y
 
 Cross-training III
-- [ ] 21 Merge Two Sorted Lists
-- [ ] 40 Merge Two Sorted Linked Lists (Lai)
+- [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
+- [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
 - [ ] 2956 Find Common Elements Between Two Arrays
 - [ ] 349 Intersection of Two Arrays
 - [ ] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai)
