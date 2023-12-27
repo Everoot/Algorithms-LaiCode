@@ -338,7 +338,7 @@ Cross-training III
 - [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
 - [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
 - [x] 2956 Find Common Elements Between Two Arrays https://youtu.be/VRjJZ0P8x_s
-- [x] 349 Intersection of Two Arrays
+- [x] 349 Intersection of Two Arrays https://youtu.be/yYLhyEiPdMo
 - [x] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai) https://youtu.be/F1LcKnjyv6s
 - [ ] 1047 Remove All Adjacent Duplicates In String
 - [ ] 82 Remove Adjacent Repeated Characters IV (Lai)
@@ -363,63 +363,125 @@ Cross-training III
 
 Dec 22
 Graph Search Algorithms III
-- [ ] Bipartite
-- [ ] Check If Binary Tree Is Completed
-- [ ] Kth Smallest Number In Sorted Matrix
-- [ ] Kth Smallest Sum In Two Sorted Arrays
-- [ ] Largest Square Of Matches
-- [ ] Largest Product Of Length
-- [ ] Kth Smallest With Only 3, 5, 7 As Factors
-- [ ] Kth Closest Point To <0,0,0>
-- [ ] Seven Puzzle
-- [ ] Word Ladder
-- [ ] Word Ladder II
-- [ ] Place To Put The Chair I
-- [ ] Course Schedule II
-- [ ] Alien Dictionary
+- [ ] 785 Is Graph Bipartite?
+- [ ] 56 Bipartite (Lai)
+- [ ] 958 Check Completeness of a Binary Tree
+- [ ] 47 Check If Binary Tree Is Completed (Lai)
+- [ ] 378 Kth Smallest Element in a Sorted Matrix
+- [ ] 26 Kth Smallest Number In Sorted Matrix (Lai)
+- [ ] 373 Find K Pairs with Smallest Sums
+- [ ] 27 Kth Smallest Sum In Two Sorted Arrays (Lai)
+- [ ] 221 Maximal Square
+- [ ] 473 Matchsticks to Square
+- [ ] 638 Largest Square Of Matches (Lai)
+- [ ] 318 Maximum Product of Word Lengths
+- [ ] 152 Maximum Product Subarray
+- [ ] 2002 Maximum Product of the Length of Two Palindromic Subsequences
+- [ ] 191 Largest Product Of Length (Lai)
+- [ ] 786 K-th Smallest Prime Fraction
+- [ ] 193 Kth Smallest With Only 3, 5, 7 As Factors (Lai)
+- [ ] 973 K Closest Points to Origin
+- [ ] 194 Kth Closest Point To <0,0,0> (Lai)
+- [ ] 417 Pacific Atlantic Water Flow
+- [ ] 665 Pacific Atlantic Flow (Lai)
+- [ ] 773 Sliding Puzzle
+- [ ] 1307 Verbal Arithmetic Puzzle
+- [ ] 681 Seven Puzzle (Lai)
+- [ ] 127 Word Ladder
+- [ ] 661 Word Ladder (Lai)
+- [ ] 126 Word Ladder II
+- [ ] 662 Word Ladder II (Lai)
+- [ ] 849 Maximize Distance to Closest Person
+- [ ] 1942 The Number of the Smallest Unoccupied Chair
+- [ ] 195 Place To Put The Chair I (Lai)
+- [ ] 207 Course Schedule
+- [ ] 210 Course Schedule II
+- [ ] 430 Course Schedule II (Lai)
+- [ ] 269 Alien Dictionary
 
 Dec 23
 Cross-training IV
-- [ ] Classical Binary Search
-- [ ] K Smallest In Unsorted Array
-- [ ] All Anagrams
-- [ ] Remove Linked List Elements
-- [ ] Missing Number I
-- [ ] Get Keys In Binary Tree Layer By Layer Zig-Zag Order
-- [ ] Implement LRU Cache
-- [ ] Majority Number I
-- [ ] Kth Smallest In Two Sorted Arrays
-- [ ] First Non-Repeating Character In Stream
-- [ ] Majority Number II
-- [ ] Majority Number III
+- [ ] 704 Binary Search
+- [ ] 14 Classical Binary Search (Lai)
+- [ ] 215 Kth Largest Element in an Array
+- [ ] 25 K Smallest In Unsorted Array (Lai)
+- [ ] 438 Find All Anagrams in a String
+- [ ] 49 Group Anagrams
+- [ ] 398 All Anagrams (Lai)
+- [ ] 203 Remove Linked List Elements
+- [ ] 414 Remove Linked List Elements (Lai)
+- [ ] 268 Missing Number
+- [ ] 68 Missing Number I (Lai)
+- [ ] 103 Binary Tree Zigzag Level Order Traversal
+- [ ] 58 Get Keys In Binary Tree Layer By Layer Zig-Zag Order (Lai)
+- [ ] 146 LRU Cache
+- [ ] 205 Implement LRU Cache (Lai)
+- [ ] 169 Majority Element
+- [ ] 229 Majority Element II
+- [ ] 206 Majority Number I (Lai)
+- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
+- [ ] 378 Kth Smallest Element in a Sorted Matrix
+- [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
+- [ ] 387 First Unique Character in a String
+- [ ] 288 First Non-Repeating Character In Stream (Lai)
+
 
 Dec 24
 Dynamic Programming IV
-- [ ] Longest Ascending SubArray
-- [ ] Smallest Element Larger than Target
-- [ ] Edit Distance
-- [ ] Max Product Of Cutting Rope
-- [ ] Minimum Cuts For Palindromes
-- [ ] Count Ascending Subsequence
-- [ ] Largest Set Of Points With Positive Slope
-- [ ] Longest Common Substring
-- [ ] Longest Common Subsequence
-- [ ] Cutting Wood I
-- [ ] Can I Win II
+- [ ] 300 Longest Increasing Subsequence
+- [ ] 2407 Longest Increasing Subsequence II
+- [ ] 673 Number of Longest Increasing Subsequence
+- [ ] 674 Longest Continuous Increasing Subsequence
+- [ ] 86 Longest Ascending SubArray (Lai)
+- [ ] 744 Find Smallest Letter Greater Than Target
+- [ ] 636 Smallest Element Larger than Target (Lai)
+- [ ] 72 Edit Distance
+- [ ] 100 Edit Distance (Lai)
+- [ ] 343 Integer Break
+- [ ] 87 Max Product Of Cutting Rope (Lai)
+- [ ] 131 Palindrome Partitioning
+- [ ] 132 Palindrome Partitioning II
+- [ ] 143 Minimum Cuts For Palindromes (Lai)
+- [ ] 673 Number of Longest Increasing Subsequence
+- [ ] 300 Longest Increasing Subsequence
+- [ ] 683 Count Ascending Subsequence (Lai)
+- [ ] 149 Max Points on a Line
+- [ ] 217 Largest Set Of Points With Positive Slope (Lai)
+- [ ] 3 Longest Substring Without Repeating Characters
+- [ ] 176 Longest Common Substring (Lai)
+- [ ] 1143 Longest Common Subsequence
+- [ ] 177 Longest Common Subsequence (Lai)
+- [ ] 2312 Selling Pieces of Wood
+- [ ] 137 Cutting Wood I (Lai)
+- [ ] 464 Can I Win
+- [ ] 374 Guess Number Higher or Lower
+- [ ] 375 Guess Number Higher or Lower II
+- [ ] 657 Can I Win II (Lai)
 
 Dec 25
 Trie
-- [ ] Word Search II
+- [ ] 79 Word Search
+- [ ] 212 Word Search II
+- [ ] 431 Word Search II (Lai)
 
 Dec 26
 Cross-training V
-- [ ] Largest Rectangle In Histogram
-- [ ] Maximum Values Of Size K Sliding Windows
-- [ ] Longest Ascending Subsequence
-- [ ] Largest Rectangle Of 1s
-- [ ] Next Greater Number I(optional)
-- [ ] Get Count Array
-- [ ] Longest Ascending Subsequence II
+- [ ] 84 Largest Rectangle in Histogram
+- [ ] 198 Largest Rectangle In Histogram (Lai)
+- [ ] 239 Sliding Window Maximum
+- [ ] 204 Maximum Values Of Size K Sliding Windows (Lai)
+- [ ] 300 Longest Increasing Subsequence
+- [ ] 1 Longest Ascending Subsequence (Lai)
+- [ ] 85 Maximal Rectangle
+- [ ] 102 Largest Rectangle Of 1s (Lai)
+- [ ] 496 Next Greater Element I
+- [ ] 503 Next Greater Element II
+- [ ] 556 Next Greater Element III
+- [ ] 678 Next Greater Number I(optional) (Lai)
+- [ ] 315 Count of Smaller Numbers After Self
+- [ ] 2338 Count the Number of Ideal Arrays
+- [ ] 2148 Count Elements With Strictly Smaller and Greater Elements 
+- [ ] 276 Get Count Array (Lai)
 
 Tips
 第一遍看完题目, 理解好, 直接看答案, 理解. 尝试写出来并通过.
