@@ -340,8 +340,8 @@ Cross-training III
 - [x] 2956 Find Common Elements Between Two Arrays https://youtu.be/VRjJZ0P8x_s
 - [x] 349 Intersection of Two Arrays https://youtu.be/yYLhyEiPdMo
 - [x] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai) https://youtu.be/F1LcKnjyv6s
-- [ ] 1047 **Remove All Adjacent Duplicates In String**
-- [ ] 82 **Remove Adjacent Repeated Characters IV** (Lai)
+- [x] 1047 **Remove All Adjacent Duplicates In String** https://youtu.be/c3su2aPHYpE
+- [x] 82 **Remove Adjacent Repeated Characters IV** (Lai) https://youtu.be/1-CSZNJtqC8
 - [ ] 485 Max Consecutive Ones
 - [ ] 103 Longest Consecutive 1s (Lai)
 - [ ] 692 Top K Frequent Words
