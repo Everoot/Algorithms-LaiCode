@@ -344,8 +344,8 @@ Cross-training III
 - [x] 82 **Remove Adjacent Repeated Characters IV** (Lai) https://youtu.be/1-CSZNJtqC8
 - [x] 485 Max Consecutive Ones https://youtu.be/BSNKyLNK_rI
 - [x] 103 Longest Consecutive 1s (Lai) https://youtu.be/T9dJeRCFPAk
-- [ ] **692 Top K Frequent Words**
-- [ ] **67 Top K Frequent Words (Lai)**
+- [x] **692 Top K Frequent Words** https://youtu.be/Qz8GHCsRB70
+- [x] **67 Top K Frequent Words (Lai)**
 - [ ] 650 Common Numbers Of Two Arrays I(Array version) (Lai)
 - [ ] 651 Common Numbers Of Two Arrays II(Array version) (Lai)
 - [ ] 42 Trapping Rain Water
@@ -361,7 +361,7 @@ Cross-training III
 - [ ] 644 Common Elements In K Sorted Lists (Lai)
       
 
-Dec 28
+Dec 29
 Graph Search Algorithms III
 - [ ] 785 Is Graph Bipartite?
 - [ ] 56 Bipartite (Lai)
@@ -399,7 +399,7 @@ Graph Search Algorithms III
 - [ ] 430 Course Schedule II (Lai)
 - [ ] 269 Alien Dictionary
 
-Dec 29
+Dec 30
 Cross-training IV
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
@@ -426,7 +426,7 @@ Cross-training IV
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
 
 
-Dec 30
+Dec 31
 Dynamic Programming IV
 - [ ] 300 Longest Increasing Subsequence
 - [ ] 2407 Longest Increasing Subsequence II
@@ -458,13 +458,13 @@ Dynamic Programming IV
 - [ ] 375 Guess Number Higher or Lower II
 - [ ] 657 Can I Win II (Lai)
 
-Dec 31
+Jan 1
 Trie
 - [ ] 79 Word Search
 - [ ] 212 Word Search II
 - [ ] 431 Word Search II (Lai)
 
-Dec 31
+Jan 1
 Cross-training V
 - [ ] 84 Largest Rectangle in Histogram
 - [ ] 198 Largest Rectangle In Histogram (Lai)
@@ -495,6 +495,6 @@ Tips
 
 第五遍一题多解
 
-Dec 27
+Jan 2
 Fixed Size Sliding Windows
 - [ ] 
