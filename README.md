@@ -345,9 +345,9 @@ Cross-training III
 - [x] 485 Max Consecutive Ones https://youtu.be/BSNKyLNK_rI
 - [x] 103 Longest Consecutive 1s (Lai) https://youtu.be/T9dJeRCFPAk
 - [x] **692 Top K Frequent Words** https://youtu.be/Qz8GHCsRB70
-- [x] **67 Top K Frequent Words (Lai)**
-- [ ] 650 Common Numbers Of Two Arrays I(Array version) (Lai)
-- [ ] 651 Common Numbers Of Two Arrays II(Array version) (Lai)
+- [x] **67 Top K Frequent Words (Lai)** https://youtu.be/1JCLUOdemQ0
+- [x] 650 Common Numbers Of Two Arrays I(Array version) (Lai) https://youtu.be/_cZZ_8eISDA
+- [x] 651 Common Numbers Of Two Arrays II(Array version) (Lai) https://youtu.be/f028JHZcTDY
 - [ ] 42 Trapping Rain Water
 - [ ] 407 Trapping Rain Water II
 - [ ] 199 Max Water Trapped I (Lai)
