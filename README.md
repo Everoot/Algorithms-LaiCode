@@ -337,7 +337,7 @@ Cross-training II
 Cross-training III
 - [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
 - [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
-- [ ] 133 Merge K Sorted Array (Lai)
+- [ ] **133 Merge K Sorted Array (Lai)**
 - [ ] 23 Merge k Sorted Lists
 - [ ] 134 Merge K Sorted Lists (Lai)
 - [ ] 171 Common Elements In Three Sorted Array (Lai)
