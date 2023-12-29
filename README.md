@@ -337,8 +337,15 @@ Cross-training II
 Cross-training III
 - [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
 - [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
+- [ ] 133 Merge K Sorted Array (Lai)
+- [ ] 23 Merge k Sorted Lists
+- [ ] 134 Merge K Sorted Lists (Lai)
+- [ ] 171 Common Elements In Three Sorted Array (Lai)
+- [ ] 644 Common Elements In K Sorted Lists (Lai)
 - [x] 2956 Find Common Elements Between Two Arrays https://youtu.be/VRjJZ0P8x_s
 - [x] 349 Intersection of Two Arrays https://youtu.be/yYLhyEiPdMo
+- [x] 650 Common Numbers Of Two Arrays I(Array version) (Lai) https://youtu.be/_cZZ_8eISDA
+- [x] 651 Common Numbers Of Two Arrays II(Array version) (Lai) https://youtu.be/f028JHZcTDY
 - [x] 652 Common Numbers Of Two Sorted Arrays(Array version) (Lai) https://youtu.be/F1LcKnjyv6s
 - [x] 1047 **Remove All Adjacent Duplicates In String** https://youtu.be/c3su2aPHYpE
 - [x] 82 **Remove Adjacent Repeated Characters IV** (Lai) https://youtu.be/1-CSZNJtqC8
@@ -346,19 +353,13 @@ Cross-training III
 - [x] 103 Longest Consecutive 1s (Lai) https://youtu.be/T9dJeRCFPAk
 - [x] **692 Top K Frequent Words** https://youtu.be/Qz8GHCsRB70
 - [x] **67 Top K Frequent Words (Lai)** https://youtu.be/1JCLUOdemQ0
-- [x] 650 Common Numbers Of Two Arrays I(Array version) (Lai) https://youtu.be/_cZZ_8eISDA
-- [x] 651 Common Numbers Of Two Arrays II(Array version) (Lai) https://youtu.be/f028JHZcTDY
 - [ ] 42 Trapping Rain Water
 - [ ] 407 Trapping Rain Water II
 - [ ] 199 Max Water Trapped I (Lai)
 - [ ] 200 Max Water Trapped II (Lai)
 - [ ] 149 Max Points on a Line
 - [ ] 216 Most Points On A Line (Lai)
-- [ ] 133 Merge K Sorted Array (Lai)
-- [ ] 23 Merge k Sorted Lists
-- [ ] 134 Merge K Sorted Lists (Lai)
-- [ ] 171 Common Elements In Three Sorted Array (Lai)
-- [ ] 644 Common Elements In K Sorted Lists (Lai)
+
       
 
 Dec 29
