@@ -340,7 +340,7 @@ Cross-training III
 - [x] **133 Merge K Sorted Array (Lai)** https://youtu.be/4I8qPAri9w0
 - [x] 23 Merge k Sorted Lists https://youtu.be/rD2wPhoZP0s
 - [x] 134 Merge K Sorted Lists (Lai) https://youtu.be/8G5gjIu_cUI
-- [ ] 171 Common Elements In Three Sorted Array (Lai)
+- [x] 171 Common Elements In Three Sorted Array (Lai) https://youtu.be/qRGYMoQKLXE
 - [ ] 644 Common Elements In K Sorted Lists (Lai)
 - [x] 2956 Find Common Elements Between Two Arrays https://youtu.be/VRjJZ0P8x_s
 - [x] 349 Intersection of Two Arrays https://youtu.be/yYLhyEiPdMo
@@ -360,9 +360,7 @@ Cross-training III
 - [ ] 149 Max Points on a Line
 - [ ] 216 Most Points On A Line (Lai)
 
-      
-
-Dec 29
+Dec 30
 Graph Search Algorithms III
 - [ ] 785 Is Graph Bipartite?
 - [ ] 56 Bipartite (Lai)
@@ -400,7 +398,7 @@ Graph Search Algorithms III
 - [ ] 430 Course Schedule II (Lai)
 - [ ] 269 Alien Dictionary
 
-Dec 30
+Dec 31
 Cross-training IV
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
