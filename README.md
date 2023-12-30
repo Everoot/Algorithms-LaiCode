@@ -341,7 +341,7 @@ Cross-training III
 - [x] 23 Merge k Sorted Lists https://youtu.be/rD2wPhoZP0s
 - [x] 134 Merge K Sorted Lists (Lai) https://youtu.be/8G5gjIu_cUI
 - [x] 171 Common Elements In Three Sorted Array (Lai) https://youtu.be/qRGYMoQKLXE
-- [ ] 644 Common Elements In K Sorted Lists (Lai)
+- [x] 644 Common Elements In K Sorted Lists (Lai) https://youtu.be/ULsJxgJ4BuU
 - [x] 2956 Find Common Elements Between Two Arrays https://youtu.be/VRjJZ0P8x_s
 - [x] 349 Intersection of Two Arrays https://youtu.be/yYLhyEiPdMo
 - [x] 650 Common Numbers Of Two Arrays I(Array version) (Lai) https://youtu.be/_cZZ_8eISDA
