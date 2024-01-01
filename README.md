@@ -355,7 +355,7 @@ Cross-training III
 - [x] **67 Top K Frequent Words (Lai)** https://youtu.be/1JCLUOdemQ0
 - [x] 42 **Trapping Rain Water**
 - [ ] 407 **Trapping Rain Water II**
-- [ ] 199 Max Water Trapped I (Lai)
+- [x] 199 Max Water Trapped I (Lai)
 - [ ] 200 Max Water Trapped II (Lai)
 - [x] 149 Max Points on a Line
 - [ ] 216 Most Points On A Line (Lai)
