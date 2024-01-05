@@ -358,8 +358,8 @@ Cross-training III
 - [ ] 407 **Trapping Rain Water II**
 - [x] 199 Max Water Trapped I (Lai) https://youtu.be/h4XMCzc2Wrk
 - [ ] 200 Max Water Trapped II (Lai)
-- [x] 149 Max Points on a Line
-- [ ] 216 Most Points On A Line (Lai)
+- [x] 149 Max Points on a Line https://youtu.be/9kL-6QquPHI
+- [x] 216 Most Points On A Line (Lai) https://youtu.be/m-kXYV0o68U
 
 Jan 6
 Graph Search Algorithms III
