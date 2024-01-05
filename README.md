@@ -334,6 +334,7 @@ Cross-training II
 - [x] 1711 Count Good Meals https://youtu.be/IvC7Khbnxhc
 - [x] 2006 Count Number of Pairs With Absolute Difference K https://youtu.be/PrqzTSuq12Y
 
+Jan 5
 Cross-training III
 - [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
 - [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
@@ -360,7 +361,7 @@ Cross-training III
 - [x] 149 Max Points on a Line
 - [ ] 216 Most Points On A Line (Lai)
 
-Dec 30
+Jan 6
 Graph Search Algorithms III
 - [ ] 785 Is Graph Bipartite?
 - [ ] 56 Bipartite (Lai)
@@ -398,7 +399,7 @@ Graph Search Algorithms III
 - [ ] 430 Course Schedule II (Lai)
 - [ ] 269 Alien Dictionary
 
-Dec 31
+Jan 7
 Cross-training IV
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
@@ -425,7 +426,7 @@ Cross-training IV
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
 
 
-Dec 31
+Jan 8
 Dynamic Programming IV
 - [ ] 300 Longest Increasing Subsequence
 - [ ] 2407 Longest Increasing Subsequence II
@@ -457,13 +458,13 @@ Dynamic Programming IV
 - [ ] 375 Guess Number Higher or Lower II
 - [ ] 657 Can I Win II (Lai)
 
-Jan 1
+Jan 9
 Trie
 - [ ] 79 Word Search
 - [ ] 212 Word Search II
 - [ ] 431 Word Search II (Lai)
 
-Jan 1
+Jan 10
 Cross-training V
 - [ ] 84 Largest Rectangle in Histogram
 - [ ] 198 Largest Rectangle In Histogram (Lai)
@@ -494,6 +495,6 @@ Tips
 
 第五遍一题多解
 
-Jan 2
+Jan 11
 Fixed Size Sliding Windows
 - [ ] 
