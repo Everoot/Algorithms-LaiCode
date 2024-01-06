@@ -400,33 +400,6 @@ Graph Search Algorithms III
 - [ ] 269 Alien Dictionary
 
 Jan 7
-Cross-training IV
-- [ ] 704 Binary Search
-- [ ] 14 Classical Binary Search (Lai)
-- [ ] 215 Kth Largest Element in an Array
-- [ ] 25 K Smallest In Unsorted Array (Lai)
-- [ ] 438 Find All Anagrams in a String
-- [ ] 49 Group Anagrams
-- [ ] 398 All Anagrams (Lai)
-- [ ] 203 Remove Linked List Elements
-- [ ] 414 Remove Linked List Elements (Lai)
-- [ ] 268 Missing Number
-- [ ] 68 Missing Number I (Lai)
-- [ ] 103 Binary Tree Zigzag Level Order Traversal
-- [ ] 58 Get Keys In Binary Tree Layer By Layer Zig-Zag Order (Lai)
-- [ ] 146 LRU Cache
-- [ ] 205 Implement LRU Cache (Lai)
-- [ ] 169 Majority Element
-- [ ] 229 Majority Element II
-- [ ] 206 Majority Number I (Lai)
-- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
-- [ ] 378 Kth Smallest Element in a Sorted Matrix
-- [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
-- [ ] 387 First Unique Character in a String
-- [ ] 288 First Non-Repeating Character In Stream (Lai)
-
-
-Jan 8
 Dynamic Programming IV
 - [ ] 300 Longest Increasing Subsequence
 - [ ] 2407 Longest Increasing Subsequence II
@@ -457,6 +430,32 @@ Dynamic Programming IV
 - [ ] 374 Guess Number Higher or Lower
 - [ ] 375 Guess Number Higher or Lower II
 - [ ] 657 Can I Win II (Lai)
+
+Jan 8
+Cross-training IV
+- [ ] 704 Binary Search
+- [ ] 14 Classical Binary Search (Lai)
+- [ ] 215 Kth Largest Element in an Array
+- [ ] 25 K Smallest In Unsorted Array (Lai)
+- [ ] 438 Find All Anagrams in a String
+- [ ] 49 Group Anagrams
+- [ ] 398 All Anagrams (Lai)
+- [ ] 203 Remove Linked List Elements
+- [ ] 414 Remove Linked List Elements (Lai)
+- [ ] 268 Missing Number
+- [ ] 68 Missing Number I (Lai)
+- [ ] 103 Binary Tree Zigzag Level Order Traversal
+- [ ] 58 Get Keys In Binary Tree Layer By Layer Zig-Zag Order (Lai)
+- [ ] 146 LRU Cache
+- [ ] 205 Implement LRU Cache (Lai)
+- [ ] 169 Majority Element
+- [ ] 229 Majority Element II
+- [ ] 206 Majority Number I (Lai)
+- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
+- [ ] 378 Kth Smallest Element in a Sorted Matrix
+- [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
+- [ ] 387 First Unique Character in a String
+- [ ] 288 First Non-Repeating Character In Stream (Lai)
 
 Jan 9
 Trie
