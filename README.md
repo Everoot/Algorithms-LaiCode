@@ -497,4 +497,12 @@ Tips
 
 Jan 11
 Fixed Size Sliding Windows
-- [ ] 
+
+Biweekly Contest 121
+- [ ] Smallest Missing Integer Greater Than Sequential Prefix Sum
+- [ ] Minimum Number of Operations to Make Array XOR Equal to K
+- [ ] Minimum Number of Operations to Make X and Y Equal
+- [ ] Count the Number of Powerful Integers
+
+
+
