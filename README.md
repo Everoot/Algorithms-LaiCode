@@ -496,6 +496,10 @@ Tips
 
 Jan 11
 Fixed Size Sliding Windows
+- [ ] 560 Subarray Sum Equals K
+- [ ] 713 Subarray Product Less Than K
+- [ ] 1100 Find K-Length Substrings With No Repeated Characters
+- [ ] 438 Find All Anagrams in a String
 
 Biweekly Contest 121
 - [ ] Smallest Missing Integer Greater Than Sequential Prefix Sum
