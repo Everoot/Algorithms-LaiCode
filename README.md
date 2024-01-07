@@ -367,8 +367,8 @@ Graph Search Algorithms III
 - [x] **56 Bipartite (Lai)** https://youtu.be/rY6bv7_veAI
 - [x] 958 Check Completeness of a Binary Tree https://youtu.be/AhJQuGhhZ-A
 - [x] 47 Check If Binary Tree Is Completed (Lai) https://youtu.be/KJtWztSZ_sw
-- [ ] 378 Kth Smallest Element in a Sorted Matrix
-- [ ] 26 Kth Smallest Number In Sorted Matrix (Lai)
+- [ ] **378 Kth Smallest Element in a Sorted Matrix**
+- [ ] **26 Kth Smallest Number In Sorted Matrix (Lai)**
 - [ ] 373 Find K Pairs with Smallest Sums
 - [ ] 27 Kth Smallest Sum In Two Sorted Arrays (Lai)
 - [ ] 221 Maximal Square
