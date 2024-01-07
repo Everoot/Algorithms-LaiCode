@@ -363,8 +363,8 @@ Cross-training III
 
 Jan 6
 Graph Search Algorithms III
-- [x] **785 Is Graph Bipartite?**
-- [x] **56 Bipartite (Lai)**
+- [x] **785 Is Graph Bipartite?** https://youtu.be/_6VCEOEo4r8
+- [x] **56 Bipartite (Lai)** https://youtu.be/rY6bv7_veAI
 - [ ] 958 Check Completeness of a Binary Tree
 - [ ] 47 Check If Binary Tree Is Completed (Lai)
 - [ ] 378 Kth Smallest Element in a Sorted Matrix
