@@ -386,7 +386,7 @@ Graph Search Algorithms III
 - [ ] 665 Pacific Atlantic Flow (Lai)
 - [ ] 773 Sliding Puzzle
 - [ ] 1307 Verbal Arithmetic Puzzle
-- [ ] 681 Seven Puzzle (Lai)
+- [ ] **681 Seven Puzzle (Lai)**
 - [ ] 127 Word Ladder
 - [ ] 661 Word Ladder (Lai)
 - [ ] 126 Word Ladder II
