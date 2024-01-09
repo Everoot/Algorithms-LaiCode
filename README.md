@@ -370,7 +370,7 @@ Graph Search Algorithms III
 - [x] **378 Kth Smallest Element in a Sorted Matrix** https://youtu.be/tOxePOuKj8A
 - [x] **26 Kth Smallest Number In Sorted Matrix (Lai)** https://youtu.be/VC-5g2mF5uE
 - [ ] 373 Find K Pairs with Smallest Sums
-- [ ] 27 Kth Smallest Sum In Two Sorted Arrays (Lai)
+- [x] **27 Kth Smallest Sum In Two Sorted Arrays (Lai)**
 - [ ] 221 Maximal Square
 - [ ] 473 Matchsticks to Square
 - [ ] 638 Largest Square Of Matches (Lai)
