@@ -372,7 +372,7 @@ Graph Search Algorithms III
 - [x] **373 Find K Pairs with Smallest Sums** https://youtu.be/oQaiw1Bg8vw
 - [x] **27 Kth Smallest Sum In Two Sorted Arrays (Lai)** https://youtu.be/56SkY3PixFY
 - [x] **221 Maximal Square** https://youtu.be/9l_FgnRUfJ4
-- [ ] 473 Matchsticks to Square
+- [x] 473 Matchsticks to Square https://youtu.be/qQvhI3X_WXI
 - [x] **638 Largest Square Of Matches (Lai)** https://youtu.be/c2DnXrVtF10
 - [ ] 318 Maximum Product of Word Lengths
 - [ ] 152 Maximum Product Subarray
