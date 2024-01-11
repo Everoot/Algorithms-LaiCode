@@ -384,9 +384,9 @@ Graph Search Algorithms III
 - [ ] 194 Kth Closest Point To <0,0,0> (Lai)
 - [ ] 417 Pacific Atlantic Water Flow
 - [ ] 665 Pacific Atlantic Flow (Lai)
-- [ ] 773 Sliding Puzzle
+- [x] **773 Sliding Puzzle**
 - [ ] 1307 Verbal Arithmetic Puzzle
-- [ ] **681 Seven Puzzle (Lai)**
+- [x] **681 Seven Puzzle (Lai)** https://youtu.be/5Gum5Xt2Hls
 - [ ] 127 Word Ladder
 - [ ] 661 Word Ladder (Lai)
 - [ ] 126 Word Ladder II
