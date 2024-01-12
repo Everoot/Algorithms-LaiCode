@@ -374,7 +374,6 @@ Graph Search Algorithms III
 - [x] **221 Maximal Square** https://youtu.be/9l_FgnRUfJ4
 - [x] 473 Matchsticks to Square https://youtu.be/qQvhI3X_WXI
 - [x] **638 Largest Square Of Matches (Lai)** https://youtu.be/c2DnXrVtF10
-- [ ] 152 Maximum Product Subarray
 - [ ] 318 Maximum Product of Word Lengths
 - [ ] 191 Largest Product Of Length (Lai)
 - [ ] 786 K-th Smallest Prime Fraction
@@ -398,6 +397,7 @@ Graph Search Algorithms III
 
 Jan 7
 Dynamic Programming IV
+- [ ] 152 Maximum Product Subarray
 - [ ] 300 Longest Increasing Subsequence
 - [ ] 2407 Longest Increasing Subsequence II
 - [ ] 673 Number of Longest Increasing Subsequence
