@@ -375,6 +375,7 @@ Graph Search Algorithms III
 - [x] 473 Matchsticks to Square https://youtu.be/qQvhI3X_WXI
 - [x] **638 Largest Square Of Matches (Lai)** https://youtu.be/c2DnXrVtF10
 - [ ] 152 Maximum Product Subarray
+- [ ] 318 Maximum Product of Word Lengths
 - [ ] 191 Largest Product Of Length (Lai)
 - [ ] 786 K-th Smallest Prime Fraction
 - [ ] 193 Kth Smallest With Only 3, 5, 7 As Factors (Lai)
