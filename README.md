@@ -390,8 +390,6 @@ Graph Search Algorithms III
 - [ ] **126 Word Ladder II**
 - [ ] **662 Word Ladder II (Lai)**
 - [ ] 849 Maximize Distance to Closest Person
-- [ ] 1942 The Number of the Smallest Unoccupied Chair
-- [ ] 195 Place To Put The Chair I (Lai)
 - [ ] 207 Course Schedule
 - [ ] 210 Course Schedule II
 - [ ] 430 Course Schedule II (Lai)
