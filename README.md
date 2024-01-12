@@ -387,8 +387,8 @@ Graph Search Algorithms III
 - [x] **773 Sliding Puzzle** https://youtu.be/Gd-rr__HpcI
 - [ ] 1307 Verbal Arithmetic Puzzle
 - [x] **681 Seven Puzzle (Lai)** https://youtu.be/5Gum5Xt2Hls
-- [ ] **127 Word Ladder**
-- [ ] **661 Word Ladder (Lai)**
+- [x] **127 Word Ladder** https://youtu.be/8YQde35ywqg
+- [x] **661 Word Ladder (Lai)** https://youtu.be/lDW_ya2C2Vw
 - [ ] **126 Word Ladder II**
 - [ ] **662 Word Ladder II (Lai)**
 - [ ] 849 Maximize Distance to Closest Person
