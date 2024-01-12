@@ -374,8 +374,8 @@ Graph Search Algorithms III
 - [x] **221 Maximal Square** https://youtu.be/9l_FgnRUfJ4
 - [x] 473 Matchsticks to Square https://youtu.be/qQvhI3X_WXI
 - [x] **638 Largest Square Of Matches (Lai)** https://youtu.be/c2DnXrVtF10
-- [ ] 318 Maximum Product of Word Lengths
-- [ ] 191 Largest Product Of Length (Lai)
+- [x] 318 Maximum Product of Word Lengths https://youtu.be/r7tUZB2qYCI
+- [x] 191 Largest Product Of Length (Lai) https://youtu.be/rbKLRSHNLJM
 - [ ] 786 K-th Smallest Prime Fraction
 - [ ] 193 Kth Smallest With Only 3, 5, 7 As Factors (Lai)
 - [ ] 973 K Closest Points to Origin
