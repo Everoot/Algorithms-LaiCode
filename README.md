@@ -379,7 +379,7 @@ Graph Search Algorithms III
 - [x] 786 K-th Smallest Prime Fraction https://youtu.be/KfqBCIlqQWE
 - [x] 193 Kth Smallest With Only 3, 5, 7 As Factors (Lai) https://youtu.be/WE-bPJQlJuc
 - [x] 973 K Closest Points to Origin https://youtu.be/aOl7G2kk9Tc
-- [x] 194 Kth Closest Point To <0,0,0> (Lai)
+- [x] 194 Kth Closest Point To <0,0,0> (Lai) https://youtu.be/hB39KivbAcc
 - [ ] 417 Pacific Atlantic Water Flow
 - [ ] 665 Pacific Atlantic Flow (Lai)
 - [x] **773 Sliding Puzzle** https://youtu.be/Gd-rr__HpcI
