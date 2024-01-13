@@ -374,25 +374,25 @@ Graph Search Algorithms III
 - [x] **221 Maximal Square** https://youtu.be/9l_FgnRUfJ4
 - [x] 473 Matchsticks to Square https://youtu.be/qQvhI3X_WXI
 - [x] **638 Largest Square Of Matches (Lai)** https://youtu.be/c2DnXrVtF10
+- [x] **773 Sliding Puzzle** https://youtu.be/Gd-rr__HpcI
+- [ ] **1307 Verbal Arithmetic Puzzle**
+- [x] **681 Seven Puzzle (Lai)** https://youtu.be/5Gum5Xt2Hls
+- [x] **127 Word Ladder** https://youtu.be/8YQde35ywqg
+- [x] **661 Word Ladder (Lai)** https://youtu.be/lDW_ya2C2Vw
+- [x] **126 Word Ladder II** https://youtu.be/Wi79QQoiLN8
+- [x] **662 Word Ladder II (Lai)** https://youtu.be/Yv1eOOlpWpI
 - [x] 318 Maximum Product of Word Lengths https://youtu.be/r7tUZB2qYCI
 - [x] 191 Largest Product Of Length (Lai) https://youtu.be/rbKLRSHNLJM
 - [x] 786 K-th Smallest Prime Fraction https://youtu.be/KfqBCIlqQWE
 - [x] 193 Kth Smallest With Only 3, 5, 7 As Factors (Lai) https://youtu.be/WE-bPJQlJuc
 - [x] 973 K Closest Points to Origin https://youtu.be/aOl7G2kk9Tc
 - [x] 194 Kth Closest Point To <0,0,0> (Lai) https://youtu.be/hB39KivbAcc
-- [ ] 417 Pacific Atlantic Water Flow
-- [ ] 665 Pacific Atlantic Flow (Lai)
-- [x] **773 Sliding Puzzle** https://youtu.be/Gd-rr__HpcI
-- [ ] 1307 Verbal Arithmetic Puzzle
-- [x] **681 Seven Puzzle (Lai)** https://youtu.be/5Gum5Xt2Hls
-- [x] **127 Word Ladder** https://youtu.be/8YQde35ywqg
-- [x] **661 Word Ladder (Lai)** https://youtu.be/lDW_ya2C2Vw
-- [x] **126 Word Ladder II** https://youtu.be/Wi79QQoiLN8
-- [x] **662 Word Ladder II (Lai)** https://youtu.be/Yv1eOOlpWpI
-- [ ] 207 Course Schedule
-- [ ] 210 Course Schedule II
-- [ ] 430 Course Schedule II (Lai)
-- [ ] 269 Alien Dictionary
+- [ ] **417 Pacific Atlantic Water Flow**
+- [ ] **665 Pacific Atlantic Flow (Lai)**
+- [ ] **207 Course Schedule**
+- [ ] **210 Course Schedule II**
+- [ ] **430 Course Schedule II (Lai)**
+- [ ] **269 Alien Dictionary**
 
 Jan 7
 Dynamic Programming IV
