@@ -377,9 +377,9 @@ Graph Search Algorithms III
 - [x] 318 Maximum Product of Word Lengths https://youtu.be/r7tUZB2qYCI
 - [x] 191 Largest Product Of Length (Lai) https://youtu.be/rbKLRSHNLJM
 - [x] 786 K-th Smallest Prime Fraction https://youtu.be/KfqBCIlqQWE
-- [ ] 193 Kth Smallest With Only 3, 5, 7 As Factors (Lai)
-- [ ] 973 K Closest Points to Origin
-- [ ] 194 Kth Closest Point To <0,0,0> (Lai)
+- [x] 193 Kth Smallest With Only 3, 5, 7 As Factors (Lai) https://youtu.be/WE-bPJQlJuc
+- [x] 973 K Closest Points to Origin https://youtu.be/aOl7G2kk9Tc
+- [x] 194 Kth Closest Point To <0,0,0> (Lai)
 - [ ] 417 Pacific Atlantic Water Flow
 - [ ] 665 Pacific Atlantic Flow (Lai)
 - [x] **773 Sliding Puzzle** https://youtu.be/Gd-rr__HpcI
@@ -389,7 +389,6 @@ Graph Search Algorithms III
 - [x] **661 Word Ladder (Lai)** https://youtu.be/lDW_ya2C2Vw
 - [x] **126 Word Ladder II** https://youtu.be/Wi79QQoiLN8
 - [x] **662 Word Ladder II (Lai)** https://youtu.be/Yv1eOOlpWpI
-- [ ] 849 Maximize Distance to Closest Person
 - [ ] 207 Course Schedule
 - [ ] 210 Course Schedule II
 - [ ] 430 Course Schedule II (Lai)
@@ -478,6 +477,7 @@ Cross-training V
 - [ ] 2338 Count the Number of Ideal Arrays
 - [ ] 2148 Count Elements With Strictly Smaller and Greater Elements 
 - [ ] 276 Get Count Array (Lai)
+- [ ] 849 Maximize Distance to Closest Person
 
 Tips
 第一遍看完题目, 理解好, 直接看答案, 理解. 尝试写出来并通过.
