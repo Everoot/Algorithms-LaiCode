@@ -388,7 +388,7 @@ Graph Search Algorithms III
 - [x] 973 K Closest Points to Origin https://youtu.be/aOl7G2kk9Tc
 - [x] 194 Kth Closest Point To <0,0,0> (Lai) https://youtu.be/hB39KivbAcc
 - [x] **417 Pacific Atlantic Water Flow** https://youtu.be/WZFVWHDsnq0
-- [x] **665 Pacific Atlantic Flow (Lai)**
+- [x] **665 Pacific Atlantic Flow (Lai)** https://youtu.be/q02xtWsVCHg
 - [ ] **207 Course Schedule**
 - [ ] **210 Course Schedule II**
 - [ ] **430 Course Schedule II (Lai)**
