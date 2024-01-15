@@ -397,11 +397,11 @@ Graph Search Algorithms III
 Jan 7
 Dynamic Programming IV
 - [x] 152 Maximum Product Subarray https://youtu.be/Ijsi1wBTwlM
-- [ ] 300 Longest Increasing Subsequence
+- [x] 300 Longest Increasing Subsequence https://youtu.be/V35DzQh6noA
 - [ ] 2407 Longest Increasing Subsequence II
 - [ ] 673 Number of Longest Increasing Subsequence
 - [ ] 674 Longest Continuous Increasing Subsequence
-- [ ] 86 Longest Ascending SubArray (Lai)
+- [x] 86 Longest Ascending SubArray (Lai) https://youtu.be/vsI0-_efxO0
 - [ ] 744 Find Smallest Letter Greater Than Target
 - [ ] 636 Smallest Element Larger than Target (Lai)
 - [ ] 72 Edit Distance
