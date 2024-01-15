@@ -396,7 +396,7 @@ Graph Search Algorithms III
 
 Jan 7
 Dynamic Programming IV
-- [ ] 152 Maximum Product Subarray
+- [x] 152 Maximum Product Subarray https://youtu.be/Ijsi1wBTwlM
 - [ ] 300 Longest Increasing Subsequence
 - [ ] 2407 Longest Increasing Subsequence II
 - [ ] 673 Number of Longest Increasing Subsequence
