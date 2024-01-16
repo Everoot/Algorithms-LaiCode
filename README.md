@@ -402,7 +402,7 @@ Dynamic Programming IV
 - [x] **673 Number of Longest Increasing Subsequence** https://youtu.be/FJwFszXPN24
 - [x] 674 Longest Continuous Increasing Subsequence https://youtu.be/VSYH07-qdaM
 - [x] 86 Longest Ascending SubArray (Lai) https://youtu.be/vsI0-_efxO0
-- [x] 683 Count Ascending Subsequence (Lai)
+- [x] 683 Count Ascending Subsequence (Lai) https://youtu.be/b0IKJ8uBSEg
 - [x] 744 Find Smallest Letter Greater Than Target https://youtu.be/kGs32rS1AJ4
 - [x] 636 Smallest Element Larger than Target (Lai) https://youtu.be/PsOUkJ6e7pc
 - [ ] 72 Edit Distance
