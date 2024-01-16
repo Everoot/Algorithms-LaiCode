@@ -402,6 +402,7 @@ Dynamic Programming IV
 - [x] **673 Number of Longest Increasing Subsequence** https://youtu.be/FJwFszXPN24
 - [x] 674 Longest Continuous Increasing Subsequence https://youtu.be/VSYH07-qdaM
 - [x] 86 Longest Ascending SubArray (Lai) https://youtu.be/vsI0-_efxO0
+- [x] 683 Count Ascending Subsequence (Lai)
 - [x] 744 Find Smallest Letter Greater Than Target https://youtu.be/kGs32rS1AJ4
 - [x] 636 Smallest Element Larger than Target (Lai) https://youtu.be/PsOUkJ6e7pc
 - [ ] 72 Edit Distance
@@ -411,9 +412,6 @@ Dynamic Programming IV
 - [ ] 131 Palindrome Partitioning
 - [ ] 132 Palindrome Partitioning II
 - [ ] 143 Minimum Cuts For Palindromes (Lai)
-- [ ] 673 Number of Longest Increasing Subsequence
-- [ ] 300 Longest Increasing Subsequence
-- [ ] 683 Count Ascending Subsequence (Lai)
 - [ ] 217 Largest Set Of Points With Positive Slope (Lai)
 - [ ] 3 Longest Substring Without Repeating Characters
 - [ ] 176 Longest Common Substring (Lai)
