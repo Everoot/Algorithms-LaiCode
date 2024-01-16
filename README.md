@@ -399,11 +399,11 @@ Dynamic Programming IV
 - [x] 152 Maximum Product Subarray https://youtu.be/Ijsi1wBTwlM
 - [x] 300 Longest Increasing Subsequence https://youtu.be/V35DzQh6noA
 - [ ] 2407 Longest Increasing Subsequence II
-- [ ] 673 Number of Longest Increasing Subsequence
-- [ ] 674 Longest Continuous Increasing Subsequence
+- [x] **673 Number of Longest Increasing Subsequence**
+- [x] 674 Longest Continuous Increasing Subsequence https://youtu.be/VSYH07-qdaM
 - [x] 86 Longest Ascending SubArray (Lai) https://youtu.be/vsI0-_efxO0
-- [ ] 744 Find Smallest Letter Greater Than Target
-- [ ] 636 Smallest Element Larger than Target (Lai)
+- [x] 744 Find Smallest Letter Greater Than Target https://youtu.be/kGs32rS1AJ4
+- [x] 636 Smallest Element Larger than Target (Lai) https://youtu.be/PsOUkJ6e7pc
 - [ ] 72 Edit Distance
 - [ ] 100 Edit Distance (Lai)
 - [ ] 343 Integer Break
