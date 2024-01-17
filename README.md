@@ -408,12 +408,12 @@ Dynamic Programming IV
 - [x] **217 Largest Set Of Points With Positive Slope (Lai)** https://youtu.be/gl4G49m0Hro
 - [x] 72 Edit Distance https://youtu.be/O8J2qMZIlgY
 - [x] 100 Edit Distance (Lai) https://youtu.be/HeiOSHutlwA
-- [ ] 176 Longest Common Substring (Lai)
-- [ ] 1143 Longest Common Subsequence
-- [ ] 177 Longest Common Subsequence (Lai)
+- [x] 176 Longest Common Substring (Lai) https://youtu.be/fNzHSEUuAdw
+- [x] 1143 Longest Common Subsequence https://youtu.be/rH0VeNN0DK8
+- [x] 177 Longest Common Subsequence (Lai) https://youtu.be/rgx3KUorjN8
 - [ ] 2312 Selling Pieces of Wood
 - [ ] 137 Cutting Wood I (Lai)
-- [ ] 343 Integer Break
+- [x] 343 Integer Break
 - [ ] 87 Max Product Of Cutting Rope (Lai)
 - [ ] 131 Palindrome Partitioning
 - [ ] 132 Palindrome Partitioning II
