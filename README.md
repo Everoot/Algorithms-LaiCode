@@ -406,19 +406,18 @@ Dynamic Programming IV
 - [x] 744 Find Smallest Letter Greater Than Target https://youtu.be/kGs32rS1AJ4
 - [x] 636 Smallest Element Larger than Target (Lai) https://youtu.be/PsOUkJ6e7pc
 - [x] **217 Largest Set Of Points With Positive Slope (Lai)** https://youtu.be/gl4G49m0Hro
-- [ ] 72 Edit Distance
-- [ ] 100 Edit Distance (Lai)
-- [ ] 343 Integer Break
-- [ ] 87 Max Product Of Cutting Rope (Lai)
-- [ ] 131 Palindrome Partitioning
-- [ ] 132 Palindrome Partitioning II
-- [ ] 143 Minimum Cuts For Palindromes (Lai)
-- [ ] 3 Longest Substring Without Repeating Characters
+- [x] 72 Edit Distance https://youtu.be/O8J2qMZIlgY
+- [x] 100 Edit Distance (Lai) https://youtu.be/HeiOSHutlwA
 - [ ] 176 Longest Common Substring (Lai)
 - [ ] 1143 Longest Common Subsequence
 - [ ] 177 Longest Common Subsequence (Lai)
 - [ ] 2312 Selling Pieces of Wood
 - [ ] 137 Cutting Wood I (Lai)
+- [ ] 343 Integer Break
+- [ ] 87 Max Product Of Cutting Rope (Lai)
+- [ ] 131 Palindrome Partitioning
+- [ ] 132 Palindrome Partitioning II
+- [ ] 143 Minimum Cuts For Palindromes (Lai)
 - [ ] 464 Can I Win
 - [ ] 374 Guess Number Higher or Lower
 - [ ] 375 Guess Number Higher or Lower II
@@ -494,6 +493,7 @@ Fixed Size Sliding Windows
 - [ ] 713 Subarray Product Less Than K
 - [ ] 1100 Find K-Length Substrings With No Repeated Characters
 - [ ] 438 Find All Anagrams in a String
+- [ ] 3 Longest Substring Without Repeating Characters
 
 Biweekly Contest 121
 - [ ] Smallest Missing Integer Greater Than Sequential Prefix Sum
