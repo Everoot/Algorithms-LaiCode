@@ -405,6 +405,7 @@ Dynamic Programming IV
 - [x] 683 Count Ascending Subsequence (Lai) https://youtu.be/b0IKJ8uBSEg
 - [x] 744 Find Smallest Letter Greater Than Target https://youtu.be/kGs32rS1AJ4
 - [x] 636 Smallest Element Larger than Target (Lai) https://youtu.be/PsOUkJ6e7pc
+- [x] **217 Largest Set Of Points With Positive Slope (Lai)** https://youtu.be/gl4G49m0Hro
 - [ ] 72 Edit Distance
 - [ ] 100 Edit Distance (Lai)
 - [ ] 343 Integer Break
@@ -412,7 +413,6 @@ Dynamic Programming IV
 - [ ] 131 Palindrome Partitioning
 - [ ] 132 Palindrome Partitioning II
 - [ ] 143 Minimum Cuts For Palindromes (Lai)
-- [ ] 217 Largest Set Of Points With Positive Slope (Lai)
 - [ ] 3 Longest Substring Without Repeating Characters
 - [ ] 176 Longest Common Substring (Lai)
 - [ ] 1143 Longest Common Subsequence
