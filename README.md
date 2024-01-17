@@ -398,7 +398,6 @@ Jan 7
 Dynamic Programming IV
 - [x] 152 Maximum Product Subarray https://youtu.be/Ijsi1wBTwlM
 - [x] 300 Longest Increasing Subsequence https://youtu.be/V35DzQh6noA
-- [ ] 2407 Longest Increasing Subsequence II
 - [x] **673 Number of Longest Increasing Subsequence** https://youtu.be/FJwFszXPN24
 - [x] 674 Longest Continuous Increasing Subsequence https://youtu.be/VSYH07-qdaM
 - [x] 86 Longest Ascending SubArray (Lai) https://youtu.be/vsI0-_efxO0
@@ -474,6 +473,7 @@ Cross-training V
 - [ ] 2148 Count Elements With Strictly Smaller and Greater Elements 
 - [ ] 276 Get Count Array (Lai)
 - [ ] 849 Maximize Distance to Closest Person
+- [ ] 2407 Longest Increasing Subsequence II
 
 Tips
 第一遍看完题目, 理解好, 直接看答案, 理解. 尝试写出来并通过.
