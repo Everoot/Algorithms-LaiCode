@@ -405,6 +405,8 @@ Dynamic Programming IV
 - [x] 744 Find Smallest Letter Greater Than Target https://youtu.be/kGs32rS1AJ4
 - [x] 636 Smallest Element Larger than Target (Lai) https://youtu.be/PsOUkJ6e7pc
 - [x] **217 Largest Set Of Points With Positive Slope (Lai)** https://youtu.be/gl4G49m0Hro
+- [x] 343 Integer Break https://youtu.be/z1ndlVPPCfc
+- [x] 87 Max Product Of Cutting Rope (Lai) https://youtu.be/igSBE5Zf7mY
 - [x] 72 Edit Distance https://youtu.be/O8J2qMZIlgY
 - [x] 100 Edit Distance (Lai) https://youtu.be/HeiOSHutlwA
 - [x] 176 Longest Common Substring (Lai) https://youtu.be/fNzHSEUuAdw
@@ -412,13 +414,10 @@ Dynamic Programming IV
 - [x] 177 Longest Common Subsequence (Lai) https://youtu.be/rgx3KUorjN8
 - [ ] 2312 Selling Pieces of Wood
 - [ ] 137 Cutting Wood I (Lai)
-- [x] 343 Integer Break
-- [ ] 87 Max Product Of Cutting Rope (Lai)
 - [ ] 131 Palindrome Partitioning
 - [ ] 132 Palindrome Partitioning II
 - [ ] 143 Minimum Cuts For Palindromes (Lai)
 - [ ] 464 Can I Win
-- [ ] 374 Guess Number Higher or Lower
 - [ ] 375 Guess Number Higher or Lower II
 - [ ] 657 Can I Win II (Lai)
 
@@ -426,6 +425,7 @@ Jan 8
 Cross-training IV
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
+- [ ] 374 Guess Number Higher or Lower
 - [ ] 215 Kth Largest Element in an Array
 - [ ] 25 K Smallest In Unsorted Array (Lai)
 - [ ] 438 Find All Anagrams in a String
