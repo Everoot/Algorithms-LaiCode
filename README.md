@@ -421,18 +421,6 @@ Dynamic Programming IV
 - [ ] **375 Guess Number Higher or Lower II**
 - [ ] **657 Can I Win II (Lai)**
 
-
-=======
-- [x] 2312 Selling Pieces of Wood https://youtu.be/T4EJqM5xMxs
-- [ ] 137 Cutting Wood I (Lai)
-- [ ] 131 Palindrome Partitioning
-- [ ] 132 Palindrome Partitioning II
-- [ ] 143 Minimum Cuts For Palindromes (Lai)
-- [ ] 464 Can I Win
-- [ ] 375 Guess Number Higher or Lower II
-- [ ] 657 Can I Win II (Lai)
->>>>>>> refs/remotes/origin/main
-
 Cross-training IV
 
 - [ ] 704 Binary Search
