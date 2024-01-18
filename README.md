@@ -1,4 +1,4 @@
-      Binary Search
+Binary Search
 
 - [x] 704 Classical Binary Search https://youtu.be/R5A1ei2YYS8
 - [x] 74 Search In Sorted Matrix I https://youtu.be/iXXK4m6vROU
@@ -412,17 +412,19 @@ Dynamic Programming IV
 - [x] 176 Longest Common Substring (Lai) https://youtu.be/fNzHSEUuAdw
 - [x] 1143 Longest Common Subsequence https://youtu.be/rH0VeNN0DK8
 - [x] 177 Longest Common Subsequence (Lai) https://youtu.be/rgx3KUorjN8
-- [ ] 2312 Selling Pieces of Wood
-- [ ] 137 Cutting Wood I (Lai)
-- [ ] 131 Palindrome Partitioning
-- [ ] 132 Palindrome Partitioning II
-- [ ] 143 Minimum Cuts For Palindromes (Lai)
-- [ ] 464 Can I Win
-- [ ] 375 Guess Number Higher or Lower II
-- [ ] 657 Can I Win II (Lai)
+- [ ] **2312 Selling Pieces of Wood**
+- [ ] **137 Cutting Wood I (Lai)**
+- [ ] **131 Palindrome Partitioning**
+- [ ] **132 Palindrome Partitioning II**
+- [ ] **143 Minimum Cuts For Palindromes (Lai)**
+- [ ] **464 Can I Win**
+- [ ] **375 Guess Number Higher or Lower II**
+- [ ] **657 Can I Win II (Lai)**
 
-Jan 8
+
+
 Cross-training IV
+
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
 - [ ] 374 Guess Number Higher or Lower
@@ -448,14 +450,16 @@ Cross-training IV
 - [ ] 387 First Unique Character in a String
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
 
-Jan 9
+
 Trie
+
 - [ ] 79 Word Search
 - [ ] 212 Word Search II
 - [ ] 431 Word Search II (Lai)
 
-Jan 10
+
 Cross-training V
+
 - [ ] 84 Largest Rectangle in Histogram
 - [ ] 198 Largest Rectangle In Histogram (Lai)
 - [ ] 239 Sliding Window Maximum
@@ -496,10 +500,10 @@ Fixed Size Sliding Windows
 - [ ] 3 Longest Substring Without Repeating Characters
 
 Biweekly Contest 121
-- [ ] Smallest Missing Integer Greater Than Sequential Prefix Sum
-- [ ] Minimum Number of Operations to Make Array XOR Equal to K
-- [ ] Minimum Number of Operations to Make X and Y Equal
-- [ ] Count the Number of Powerful Integers
+- [ ] 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
+- [ ] 2997 Minimum Number of Operations to Make Array XOR Equal to K
+- [ ] 2998 Minimum Number of Operations to Make X and Y Equal
+- [ ] 2999 Count the Number of Powerful Integers
 
 
 

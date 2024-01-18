@@ -83,7 +83,7 @@ Lastly, for TC - "abbbabaaa"
 Step 1 - remove 2 adjacent b's, making it "ababaaa"
 Step 2 - remove 2 adjacent a's, making it "ababa"
 
-这题与Laioffer的那道题Remove Adjacent Repeated Characters IV不太一样那个是消消乐, 这个是每次删掉两个重复循环.
+这题与Laioffer的那道题82 Remove Adjacent Repeated Characters IV不太一样那个是消消乐, 这个是每次删掉两个重复循环.
 
 
 
