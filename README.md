@@ -413,7 +413,7 @@ Dynamic Programming IV
 - [x] 1143 Longest Common Subsequence https://youtu.be/rH0VeNN0DK8
 - [x] 177 Longest Common Subsequence (Lai) https://youtu.be/rgx3KUorjN8
 - [x] **2312 Selling Pieces of Wood** https://youtu.be/T4EJqM5xMxs
-- [ ] **137 Cutting Wood I (Lai)**
+- [x] **137 Cutting Wood I (Lai)** https://youtu.be/o-dhf3ZQHHE
 - [ ] **131 Palindrome Partitioning**
 - [ ] **132 Palindrome Partitioning II**
 - [ ] **143 Minimum Cuts For Palindromes (Lai)**
