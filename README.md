@@ -417,7 +417,7 @@ Jan 7
 - [ ] **131 Palindrome Partitioning**
 - [ ] **132 Palindrome Partitioning II**
 - [ ] **143 Minimum Cuts For Palindromes (Lai)**
-- [x] **464 Can I Win**
+- [x] **464 Can I Win** https://youtu.be/ATbQnI7ycY8
 - [ ] **375 Guess Number Higher or Lower II**
 - [ ] **657 Can I Win II (Lai)**
 
