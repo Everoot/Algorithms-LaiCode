@@ -362,7 +362,7 @@ Cross-training III
 - [x] 216 Most Points On A Line (Lai) https://youtu.be/m-kXYV0o68U
 
 Jan 6
-Graph Search Algorithms III
+**Graph Search Algorithms III**
 - [x] **785 Is Graph Bipartite?** https://youtu.be/_6VCEOEo4r8
 - [x] **56 Bipartite (Lai)** https://youtu.be/rY6bv7_veAI
 - [x] 958 Check Completeness of a Binary Tree https://youtu.be/AhJQuGhhZ-A
@@ -395,7 +395,7 @@ Graph Search Algorithms III
 - [ ] **269 Alien Dictionary**
 
 Jan 7
-Dynamic Programming IV
+**Dynamic Programming IV**
 - [x] 152 Maximum Product Subarray https://youtu.be/Ijsi1wBTwlM
 - [x] 300 Longest Increasing Subsequence https://youtu.be/V35DzQh6noA
 - [x] **673 Number of Longest Increasing Subsequence** https://youtu.be/FJwFszXPN24
@@ -417,12 +417,11 @@ Dynamic Programming IV
 - [ ] **131 Palindrome Partitioning**
 - [ ] **132 Palindrome Partitioning II**
 - [ ] **143 Minimum Cuts For Palindromes (Lai)**
-- [ ] **464 Can I Win**
+- [x] **464 Can I Win**
 - [ ] **375 Guess Number Higher or Lower II**
 - [ ] **657 Can I Win II (Lai)**
 
 Cross-training IV
-
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
 - [ ] 374 Guess Number Higher or Lower
