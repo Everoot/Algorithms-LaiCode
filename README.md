@@ -419,7 +419,7 @@ Jan 7
 - [ ] **143 Minimum Cuts For Palindromes (Lai)**
 - [x] **464 Can I Win** https://youtu.be/ATbQnI7ycY8
 - [x] **375 Guess Number Higher or Lower II**
-- [x] **657 Can I Win II (Lai)**
+- [x] **657 Can I Win II (Lai)** https://youtu.be/aXDSAyn5thE
 
 Cross-training IV
 - [ ] 704 Binary Search
