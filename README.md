@@ -418,8 +418,8 @@ Jan 7
 - [ ] **132 Palindrome Partitioning II**
 - [ ] **143 Minimum Cuts For Palindromes (Lai)**
 - [x] **464 Can I Win** https://youtu.be/ATbQnI7ycY8
-- [ ] **375 Guess Number Higher or Lower II**
-- [ ] **657 Can I Win II (Lai)**
+- [x] **375 Guess Number Higher or Lower II**
+- [x] **657 Can I Win II (Lai)**
 
 Cross-training IV
 - [ ] 704 Binary Search
