@@ -415,7 +415,7 @@ Jan 7
 - [x] 177 Longest Common Subsequence (Lai) https://youtu.be/rgx3KUorjN8
 - [x] **2312 Selling Pieces of Wood** https://youtu.be/T4EJqM5xMxs
 - [x] **137 Cutting Wood I (Lai)** https://youtu.be/o-dhf3ZQHHE
-- [x] **131 Palindrome Partitioning**
+- [x] **131 Palindrome Partitioning** https://youtu.be/LqE-vn2Lnlk
 - [ ] **132 Palindrome Partitioning II**
 - [ ] **143 Minimum Cuts For Palindromes (Lai)**
 - [x] **464 Can I Win** https://youtu.be/ATbQnI7ycY8
