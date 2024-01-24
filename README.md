@@ -416,8 +416,8 @@ Jan 7
 - [x] **2312 Selling Pieces of Wood** https://youtu.be/T4EJqM5xMxs
 - [x] **137 Cutting Wood I (Lai)** https://youtu.be/o-dhf3ZQHHE
 - [x] **131 Palindrome Partitioning** https://youtu.be/LqE-vn2Lnlk
-- [ ] **132 Palindrome Partitioning II**
-- [ ] **143 Minimum Cuts For Palindromes (Lai)**
+- [x] **132 Palindrome Partitioning II** https://youtu.be/nZiu7zbpe88
+- [x] **143 Minimum Cuts For Palindromes (Lai)**
 - [x] **464 Can I Win** https://youtu.be/ATbQnI7ycY8
 - [x] **375 Guess Number Higher or Lower II** https://youtu.be/THXy12oH85M
 - [x] **657 Can I Win II (Lai)** https://youtu.be/aXDSAyn5thE
