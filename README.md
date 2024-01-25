@@ -295,7 +295,7 @@ Recursion III
 - [x] **215 Reconstruct Binary Tree With Levelorder And Inorder** (Lai) https://youtu.be/lHKdRubqMos
 
 
-Dec 21
+
 Cross-training II
 - [x] 206 Reverse Linked List https://youtu.be/esclzKEbM2E
 - [x] 34 Reverse Linked List (iterative) (Lai) https://youtu.be/1xH3JFYvXxg
@@ -334,7 +334,7 @@ Cross-training II
 - [x] 1711 Count Good Meals https://youtu.be/IvC7Khbnxhc
 - [x] 2006 Count Number of Pairs With Absolute Difference K https://youtu.be/PrqzTSuq12Y
 
-Jan 5
+
 Cross-training III
 - [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
 - [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
@@ -361,7 +361,7 @@ Cross-training III
 - [x] 149 Max Points on a Line https://youtu.be/9kL-6QquPHI
 - [x] 216 Most Points On A Line (Lai) https://youtu.be/m-kXYV0o68U
 
-Jan 6
+
 **Graph Search Algorithms III**
 - [x] **785 Is Graph Bipartite?** https://youtu.be/_6VCEOEo4r8
 - [x] **56 Bipartite (Lai)** https://youtu.be/rY6bv7_veAI
@@ -395,7 +395,6 @@ Jan 6
 - [ ] **269 Alien Dictionary**
 - [x] 131 Palindrome Partitioning https://youtu.be/wfJUgA36gUY
 
-Jan 7
 **Dynamic Programming IV**
 - [x] 152 Maximum Product Subarray https://youtu.be/Ijsi1wBTwlM
 - [x] 300 Longest Increasing Subsequence https://youtu.be/V35DzQh6noA
@@ -417,7 +416,7 @@ Jan 7
 - [x] **137 Cutting Wood I (Lai)** https://youtu.be/o-dhf3ZQHHE
 - [x] **131 Palindrome Partitioning** https://youtu.be/LqE-vn2Lnlk
 - [x] **132 Palindrome Partitioning II** https://youtu.be/nZiu7zbpe88
-- [x] **143 Minimum Cuts For Palindromes (Lai)**
+- [x] **143 Minimum Cuts For Palindromes (Lai)** https://youtu.be/G2aPOR6MWbY
 - [x] **464 Can I Win** https://youtu.be/ATbQnI7ycY8
 - [x] **375 Guess Number Higher or Lower II** https://youtu.be/THXy12oH85M
 - [x] **657 Can I Win II (Lai)** https://youtu.be/aXDSAyn5thE
@@ -477,19 +476,7 @@ Cross-training V
 - [ ] 849 Maximize Distance to Closest Person
 - [ ] 2407 Longest Increasing Subsequence II
 
-Tips
-第一遍看完题目, 理解好, 直接看答案, 理解. 尝试写出来并通过.
-录视频, 不看答案, 自己写.
 
-第二遍不看答案写, 20分钟内写出来的pass. 没有的进行标注. 看答案, 继续重复第一遍的步骤
-
-第三遍不看答案写, 10分钟内写出来的pass, 没有的重复第二遍内容.
-
-第四遍只做标注过的题. 
-
-第五遍一题多解
-
-Jan 11
 Fixed Size Sliding Windows
 - [ ] 560 Subarray Sum Equals K
 - [ ] 713 Subarray Product Less Than K
