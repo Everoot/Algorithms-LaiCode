@@ -421,6 +421,14 @@ Cross-training III
 - [x] **375 Guess Number Higher or Lower II** https://youtu.be/THXy12oH85M
 - [x] **657 Can I Win II (Lai)** https://youtu.be/aXDSAyn5thE
 
+
+Trie
+
+- [x] **79 Word Search** https://youtu.be/U07fnpaDc44
+- [x] **212 Word Search II** https://youtu.be/8Cdv_9eufqk
+- [x] **431 Word Search II (Lai)** https://youtu.be/KywZ_yf1s1g
+
+
 Cross-training IV
 - [ ] 704 Binary Search
 - [ ] 14 Classical Binary Search (Lai)
@@ -448,11 +456,6 @@ Cross-training IV
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
 
 
-Trie
-
-- [x] 79 Word Search https://youtu.be/U07fnpaDc44
-- [x] 212 Word Search II
-- [x] 431 Word Search II (Lai)
 
 
 Cross-training V
