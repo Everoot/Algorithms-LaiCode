@@ -450,7 +450,7 @@ Cross-training IV
 
 Trie
 
-- [x] 79 Word Search
+- [x] 79 Word Search https://youtu.be/U07fnpaDc44
 - [x] 212 Word Search II
 - [x] 431 Word Search II (Lai)
 
