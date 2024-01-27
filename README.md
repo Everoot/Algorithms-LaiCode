@@ -450,9 +450,9 @@ Cross-training IV
 
 Trie
 
-- [ ] 79 Word Search
-- [ ] 212 Word Search II
-- [ ] 431 Word Search II (Lai)
+- [x] 79 Word Search
+- [x] 212 Word Search II
+- [x] 431 Word Search II (Lai)
 
 
 Cross-training V
