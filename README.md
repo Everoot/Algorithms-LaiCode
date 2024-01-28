@@ -461,7 +461,7 @@ Cross-training IV
 - [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
 - [ ] 387 First Unique Character in a String
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
-- [x] 560 Subarray Sum Equals K 
+- [x] 560 Subarray Sum Equals K https://youtu.be/a8AO-Q7EMIs
 
 
 
