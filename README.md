@@ -428,6 +428,13 @@ Trie
 - [x] **212 Word Search II** https://youtu.be/8Cdv_9eufqk
 - [x] **431 Word Search II (Lai)** https://youtu.be/KywZ_yf1s1g
 
+Fixed Size Sliding Windows
+
+- [ ] 713 Subarray Product Less Than K
+- [ ] 1100 Find K-Length Substrings With No Repeated Characters
+- [ ] 438 Find All Anagrams in a String
+- [ ] 3 Longest Substring Without Repeating Characters
+
 
 Cross-training IV
 - [ ] 704 Binary Search
@@ -454,7 +461,7 @@ Cross-training IV
 - [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
 - [ ] 387 First Unique Character in a String
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
-
+- [x] 560 Subarray Sum Equals K 
 
 
 
@@ -480,12 +487,7 @@ Cross-training V
 - [ ] 2407 Longest Increasing Subsequence II
 
 
-Fixed Size Sliding Windows
-- [ ] 560 Subarray Sum Equals K
-- [ ] 713 Subarray Product Less Than K
-- [ ] 1100 Find K-Length Substrings With No Repeated Characters
-- [ ] 438 Find All Anagrams in a String
-- [ ] 3 Longest Substring Without Repeating Characters
+
 
 Biweekly Contest 121
 - [ ] 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
