@@ -432,7 +432,7 @@ Fixed Size Sliding Windows
 
 - [x] 713 Subarray Product Less Than K https://youtu.be/bpj5FIirBfY
 - [x] 1100 Find K-Length Substrings With No Repeated Characters https://youtu.be/v2Ej0dD66OU
-- [x] 438 Find All Anagrams in a String
+- [x] **438 Find All Anagrams in a String** https://youtu.be/WfuL9r8IFB8
 - [x] 3 Longest Substring Without Repeating Characters https://youtu.be/Zkgg875BCpM
 
 
