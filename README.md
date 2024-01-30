@@ -437,6 +437,9 @@ Fixed Size Sliding Windows
 
 
 Cross-training IV
+- [x] 102 Binary Tree Level Order Traversal
+- [x] 103 Binary Tree Zigzag Level Order Traversal
+- [x] 58 Get Keys In Binary Tree Layer By Layer Zig-Zag Order (Lai)
 - [x] 704 Binary Search https://youtu.be/uOA1Y6kP9Zo
 - [x] 14 Classical Binary Search (Lai) https://youtu.be/SpEjsK7DozU
 - [x] 374 Guess Number Higher or Lower https://youtu.be/7TVcGEdBgBw
@@ -449,8 +452,6 @@ Cross-training IV
 - [ ] 414 Remove Linked List Elements (Lai)
 - [ ] 268 Missing Number
 - [ ] 68 Missing Number I (Lai)
-- [ ] 103 Binary Tree Zigzag Level Order Traversal
-- [ ] 58 Get Keys In Binary Tree Layer By Layer Zig-Zag Order (Lai)
 - [ ] 146 LRU Cache
 - [ ] 205 Implement LRU Cache (Lai)
 - [ ] 169 Majority Element
