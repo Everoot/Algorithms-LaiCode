@@ -437,8 +437,8 @@ Fixed Size Sliding Windows
 
 
 Cross-training IV
-- [ ] 704 Binary Search
-- [ ] 14 Classical Binary Search (Lai)
+- [x] 704 Binary Search https://youtu.be/uOA1Y6kP9Zo
+- [x] 14 Classical Binary Search (Lai) https://youtu.be/SpEjsK7DozU
 - [ ] 374 Guess Number Higher or Lower
 - [ ] 215 Kth Largest Element in an Array
 - [ ] 25 K Smallest In Unsorted Array (Lai)
