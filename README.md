@@ -438,7 +438,7 @@ Fixed Size Sliding Windows
 
 Cross-training IV
 - [x] 102 Binary Tree Level Order Traversal https://youtu.be/holLc1Pe1mY
-- [x] **103 Binary Tree Zigzag Level Order Traversal**
+- [x] **103 Binary Tree Zigzag Level Order Traversal** https://youtu.be/JxFwJsArOFk
 - [x] 704 Binary Search https://youtu.be/uOA1Y6kP9Zo
 - [x] 14 Classical Binary Search (Lai) https://youtu.be/SpEjsK7DozU
 - [x] 374 Guess Number Higher or Lower https://youtu.be/7TVcGEdBgBw
