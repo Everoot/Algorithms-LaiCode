@@ -442,7 +442,7 @@ Cross-training IV
 - [x] 704 Binary Search https://youtu.be/uOA1Y6kP9Zo
 - [x] 14 Classical Binary Search (Lai) https://youtu.be/SpEjsK7DozU
 - [x] 374 Guess Number Higher or Lower https://youtu.be/7TVcGEdBgBw
-- [ ] 215 Kth Largest Element in an Array
+- [x] 215 Kth Largest Element in an Array https://youtu.be/e9J0Q6Qxx8c
 - [ ] 438 Find All Anagrams in a String
 - [ ] 49 Group Anagrams
 - [ ] 398 All Anagrams (Lai)
