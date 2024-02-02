@@ -447,10 +447,10 @@ Cross-training IV
 - [x] 438 Find All Anagrams in a String https://youtu.be/oWQrnOkhEMM
 - [x] 49 Group Anagrams https://youtu.be/XcbzeJLGNgg
 - [x] 398 All Anagrams (Lai) https://youtu.be/wy4lEJeCwIc
-- [ ] 203 Remove Linked List Elements
-- [ ] 414 Remove Linked List Elements (Lai)
-- [ ] 268 Missing Number
-- [ ] 68 Missing Number I (Lai)
+- [x] 203 Remove Linked List Elements https://youtu.be/_cO8bby1gIQ
+- [x] 414 Remove Linked List Elements (Lai) https://youtu.be/62ohd_23WvA
+- [x] 268 Missing Number https://youtu.be/u2QNyIpcSLQ
+- [x] 68 Missing Number I (Lai) https://youtu.be/vT5u_QqMAvI
 - [ ] 146 LRU Cache
 - [ ] 205 Implement LRU Cache (Lai)
 - [ ] 169 Majority Element
