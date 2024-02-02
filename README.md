@@ -444,7 +444,7 @@ Cross-training IV
 - [x] 374 Guess Number Higher or Lower https://youtu.be/7TVcGEdBgBw
 - [x] 215 Kth Largest Element in an Array https://youtu.be/e9J0Q6Qxx8c
 - [x] 25 K Smallest In Unsorted Array (Lai) https://youtu.be/hs0WqBhmYxk
-- [ ] 438 Find All Anagrams in a String
+- [x] 438 Find All Anagrams in a String https://youtu.be/oWQrnOkhEMM
 - [ ] 49 Group Anagrams
 - [ ] 398 All Anagrams (Lai)
 - [ ] 203 Remove Linked List Elements
