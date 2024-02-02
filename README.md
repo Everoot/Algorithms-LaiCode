@@ -446,7 +446,7 @@ Cross-training IV
 - [x] 25 K Smallest In Unsorted Array (Lai) https://youtu.be/hs0WqBhmYxk
 - [x] 438 Find All Anagrams in a String https://youtu.be/oWQrnOkhEMM
 - [ ] 49 Group Anagrams
-- [ ] 398 All Anagrams (Lai)
+- [x] 398 All Anagrams (Lai) https://youtu.be/wy4lEJeCwIc
 - [ ] 203 Remove Linked List Elements
 - [ ] 414 Remove Linked List Elements (Lai)
 - [ ] 268 Missing Number
