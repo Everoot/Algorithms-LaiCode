@@ -445,7 +445,7 @@ Cross-training IV
 - [x] 215 Kth Largest Element in an Array https://youtu.be/e9J0Q6Qxx8c
 - [x] 25 K Smallest In Unsorted Array (Lai) https://youtu.be/hs0WqBhmYxk
 - [x] 438 Find All Anagrams in a String https://youtu.be/oWQrnOkhEMM
-- [x] **49 Group Anagrams **https://youtu.be/XcbzeJLGNgg
+- [x] **49 Group Anagrams** https://youtu.be/XcbzeJLGNgg
 - [x] 398 All Anagrams (Lai) https://youtu.be/wy4lEJeCwIc
 - [x] 203 Remove Linked List Elements https://youtu.be/_cO8bby1gIQ
 - [x] 414 Remove Linked List Elements (Lai) https://youtu.be/62ohd_23WvA
