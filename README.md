@@ -453,9 +453,9 @@ Cross-training IV
 - [x] 68 Missing Number I (Lai) https://youtu.be/vT5u_QqMAvI
 - [ ] **146 LRU Cache**
 - [ ] 205 Implement LRU Cache (Lai)
-- [ ] 169 Majority Element
-- [ ] 229 Majority Element II
-- [ ] 206 Majority Number I (Lai)
+- [x] 169 Majority Element https://youtu.be/OsoaWxD7lGE
+- [ ] 229 Majority Element II 
+- [x] 206 Majority Number I (Lai) https://youtu.be/QIqaIVSJBVo
 - [ ] 2040 Kth Smallest Product of Two Sorted Arrays
 - [ ] 378 Kth Smallest Element in a Sorted Matrix
 - [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
