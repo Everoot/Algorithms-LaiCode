@@ -451,7 +451,7 @@ Cross-training IV
 - [x] 414 Remove Linked List Elements (Lai) https://youtu.be/62ohd_23WvA
 - [x] 268 Missing Number https://youtu.be/u2QNyIpcSLQ
 - [x] 68 Missing Number I (Lai) https://youtu.be/vT5u_QqMAvI
-- [x] **146 LRU Cache**
+- [x] **146 LRU Cache** https://youtu.be/bnZz8uy323E
 - [x] 205 Implement LRU Cache (Lai)
 - [x] 169 Majority Element https://youtu.be/OsoaWxD7lGE
 - [x] 229 Majority Element II https://youtu.be/B2SNgSVBLkY
