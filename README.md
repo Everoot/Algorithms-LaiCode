@@ -452,7 +452,7 @@ Cross-training IV
 - [x] 268 Missing Number https://youtu.be/u2QNyIpcSLQ
 - [x] 68 Missing Number I (Lai) https://youtu.be/vT5u_QqMAvI
 - [x] **146 LRU Cache** https://youtu.be/bnZz8uy323E
-- [x] 205 Implement LRU Cache (Lai)
+- [x] 205 Implement LRU Cache (Lai) https://youtu.be/nw5vBWXiCfw
 - [x] 169 Majority Element https://youtu.be/OsoaWxD7lGE
 - [x] 229 Majority Element II https://youtu.be/B2SNgSVBLkY
 - [x] 206 Majority Number I (Lai) https://youtu.be/QIqaIVSJBVo
