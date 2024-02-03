@@ -451,8 +451,8 @@ Cross-training IV
 - [x] 414 Remove Linked List Elements (Lai) https://youtu.be/62ohd_23WvA
 - [x] 268 Missing Number https://youtu.be/u2QNyIpcSLQ
 - [x] 68 Missing Number I (Lai) https://youtu.be/vT5u_QqMAvI
-- [ ] **146 LRU Cache**
-- [ ] 205 Implement LRU Cache (Lai)
+- [x] **146 LRU Cache**
+- [x] 205 Implement LRU Cache (Lai)
 - [x] 169 Majority Element https://youtu.be/OsoaWxD7lGE
 - [x] 229 Majority Element II https://youtu.be/B2SNgSVBLkY
 - [x] 206 Majority Number I (Lai) https://youtu.be/QIqaIVSJBVo
@@ -486,14 +486,20 @@ Cross-training V
 - [ ] 849 Maximize Distance to Closest Person
 - [ ] 2407 Longest Increasing Subsequence II
 
-
-
-
 Biweekly Contest 121
 - [ ] 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
 - [ ] 2997 Minimum Number of Operations to Make Array XOR Equal to K
 - [ ] 2998 Minimum Number of Operations to Make X and Y Equal
 - [ ] 2999 Count the Number of Powerful Integers
 
+Biweekly Contest 122
+- [ ] 3010 Divide an Array Into Subarrays With Minimum Cost I
+- [ ] 3011 Find if Array Can Be Sorted
+- [ ] 3012 Minimize Length of Array Using Operations
+- [ ] 3013 Divide an Array Into Subarrays With Minimum Cost II
 
-
+Biweekly Contest 123
+- [ ] 3024 Type of Triangle II
+- [ ] 3025 Find the Number of Ways to Place People I
+- [ ] 3026 Maximum Good Subarray Sum
+- [ ] 3027 Find the Number of Ways to Place People II
