@@ -458,7 +458,7 @@ Cross-training IV
 - [x] 206 Majority Number I (Lai) https://youtu.be/QIqaIVSJBVo
 - [ ] 2040 Kth Smallest Product of Two Sorted Arrays
 - [x] 378 Kth Smallest Element in a Sorted Matrix https://youtu.be/TVJXUF_P1PI
-- [x] 202 Kth Smallest In Two Sorted Arrays (Lai) 
+- [x] 202 Kth Smallest In Two Sorted Arrays (Lai) https://youtu.be/MJXWkV4VzKA
 - [x] 387 First Unique Character in a String https://youtu.be/Zq5ygAYkYLc
 - [x] 288 First Non-Repeating Character In Stream (Lai) https://youtu.be/UOo0-C7mi0o
 - [x] 560 Subarray Sum Equals K https://youtu.be/a8AO-Q7EMIs
