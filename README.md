@@ -460,7 +460,7 @@ Cross-training IV
 - [ ] 378 Kth Smallest Element in a Sorted Matrix
 - [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
 - [x] 387 First Unique Character in a String https://youtu.be/Zq5ygAYkYLc
-- [ ] 288 First Non-Repeating Character In Stream (Lai)
+- [x] 288 First Non-Repeating Character In Stream (Lai) https://youtu.be/UOo0-C7mi0o
 - [x] 560 Subarray Sum Equals K https://youtu.be/a8AO-Q7EMIs
 
 
