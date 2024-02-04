@@ -456,7 +456,6 @@ Cross-training IV
 - [x] 169 Majority Element https://youtu.be/OsoaWxD7lGE
 - [x] 229 Majority Element II https://youtu.be/B2SNgSVBLkY
 - [x] 206 Majority Number I (Lai) https://youtu.be/QIqaIVSJBVo
-- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
 - [x] 378 Kth Smallest Element in a Sorted Matrix https://youtu.be/TVJXUF_P1PI
 - [x] 202 Kth Smallest In Two Sorted Arrays (Lai) https://youtu.be/MJXWkV4VzKA
 - [x] 387 First Unique Character in a String https://youtu.be/Zq5ygAYkYLc
@@ -485,6 +484,7 @@ Cross-training V
 - [ ] 276 Get Count Array (Lai)
 - [ ] 849 Maximize Distance to Closest Person
 - [ ] 2407 Longest Increasing Subsequence II
+- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
 
 Biweekly Contest 121
 - [ ] 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
