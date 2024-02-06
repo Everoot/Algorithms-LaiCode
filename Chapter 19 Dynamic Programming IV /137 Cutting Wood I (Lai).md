@@ -14,34 +14,59 @@ There is a wooden stick with length L >= 1, we need to cut it into pieces, where
 public class Solution {
   public int minCost(int[] cuts, int length) {
     // Write your solution here
-
-    int[] helper = new int[cuts.length + 2];
-    helper[0] = 0;
+    // Assumptions: cuts is not null, length >= 0, all cuts are valid numbers.
+    // First we need to pad the original array at leftmost and 
+    // rightmost position.
+    int[] helper = new int[cuts.length + 2]; // [3+2] =[5] [ _ , _ , _ , _ ,_ ]
+    helper[0] = 0;   // helper: [0, _, _ , _ , _ ]
     for (int i = 0; i < cuts.length; i++){
-      helper[i+1] = cuts[i];
-    }
+      helper[i + 1] = cuts[i];
+    } // helper[0, 2, 4, 7, _]
 
-    helper[helper.length -1] = length;
+    helper[helper.length - 1] = length; // helper[0, 2, 4, 7, 10]
 
+    // dp[i][j]: the min cost of cutting the partition(i, j).
+    int[][] dp = new int[helper.length][helper.length];
+    /*
+             0 1 2 3 4 
+             ------------ 
+          0| 
+          1| 
+          2|
+          3|
+          4|
+        
+    */
 
-    int[][] M = new int[helper.length][helper.length];
     for (int j = 1; j < helper.length; j++){
       for (int i = j -1; i >= 0; i--){
-        if (i == j - 1){
-          M[i][j] = 0;
-        } else {
-          M[i][j] = Integer.MAX_VALUE;
+        if (i == j - 1){ // 如果 i 和 j 相邻，则不需要切割，成本为 0
+          dp[i][j] = 0;
+          /*
+          假设我们有一个切割点数组 cuts = [2, 4, 7]，
+          那么 helper 数组将会是 [0, 2, 4, 7, 10]（这里假设木棍长度为 10）。
+          在这个数组中，如果我们考虑 i = 1 和 j = 2 的情况，
+          它们对应的是 helper 数组中的值 2 和 4。因为在 2 和 4 之间没有其他切割点，
+          我们不需要在这个区间进行切割，所以这个区间的切割成本为 0。
+          */
+        } else { 
+          // 计算 i 到 j 的最小切割成本。
+          dp[i][j] = Integer.MAX_VALUE;
           for (int k = i + 1; k < j; k++){
-            M[i][j] = Math.min(M[i][j], M[i][k] + M[k][j]);
+            // 循环变量 k 遍历 i 和 j 之间的所有切割点，找到成本最小的组合
+            dp[i][j] = Math.min(dp[i][j], dp[i][k] + dp[k][j]);
           }
-          M[i][j] = M[i][j] + helper[j] - helper[i];
+          // 最后加上当前切割段的长度（helper[j] - helper[i]）
+          dp[i][j] = dp[i][j] + helper[j] - helper[i];
         }
       }
     }
-    return M[0][helper.length-1];
+    return dp[0][helper.length - 1];
   }
-
 }
+
+// M[i][j]: represents the min cost to cut wood between index i and index j
+
 // TC: O(n^3)
 // SC: O(n^2)
 ```
@@ -298,4 +323,8 @@ M\[0][1]		  M\[0][2]	M\[0][3]	 M\[0][4]
 TC: O(n*n) * O(n) * O(1) = O(n^3)
 
 ​       表格        rule枚举
+
+
+
+![Screenshot 2024-01-18 at 15.03.17](./137 Cutting Wood I (Lai)/Screenshot 2024-01-18 at 15.03.17.png)
 
