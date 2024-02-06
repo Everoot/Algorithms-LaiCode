@@ -295,7 +295,7 @@ Recursion III
 - [x] **215 Reconstruct Binary Tree With Levelorder And Inorder** (Lai) https://youtu.be/lHKdRubqMos
 
 
-Dec 21
+
 Cross-training II
 - [x] 206 Reverse Linked List https://youtu.be/esclzKEbM2E
 - [x] 34 Reverse Linked List (iterative) (Lai) https://youtu.be/1xH3JFYvXxg
@@ -334,7 +334,7 @@ Cross-training II
 - [x] 1711 Count Good Meals https://youtu.be/IvC7Khbnxhc
 - [x] 2006 Count Number of Pairs With Absolute Difference K https://youtu.be/PrqzTSuq12Y
 
-Jan 5
+
 Cross-training III
 - [x] 21 Merge Two Sorted Lists https://youtu.be/rMKJRyCJv-Q
 - [x] 40 Merge Two Sorted Linked Lists (Lai) https://youtu.be/v7S_Oozx6pI
@@ -361,8 +361,8 @@ Cross-training III
 - [x] 149 Max Points on a Line https://youtu.be/9kL-6QquPHI
 - [x] 216 Most Points On A Line (Lai) https://youtu.be/m-kXYV0o68U
 
-Jan 6
-Graph Search Algorithms III
+
+**Graph Search Algorithms III**
 - [x] **785 Is Graph Bipartite?** https://youtu.be/_6VCEOEo4r8
 - [x] **56 Bipartite (Lai)** https://youtu.be/rY6bv7_veAI
 - [x] 958 Check Completeness of a Binary Tree https://youtu.be/AhJQuGhhZ-A
@@ -393,9 +393,9 @@ Graph Search Algorithms III
 - [ ] **210 Course Schedule II**
 - [ ] **430 Course Schedule II (Lai)**
 - [ ] **269 Alien Dictionary**
+- [x] 131 Palindrome Partitioning https://youtu.be/wfJUgA36gUY
 
-Jan 7
-Dynamic Programming IV
+**Dynamic Programming IV**
 - [x] 152 Maximum Product Subarray https://youtu.be/Ijsi1wBTwlM
 - [x] 300 Longest Increasing Subsequence https://youtu.be/V35DzQh6noA
 - [x] **673 Number of Longest Increasing Subsequence** https://youtu.be/FJwFszXPN24
@@ -413,6 +413,7 @@ Dynamic Programming IV
 - [x] 1143 Longest Common Subsequence https://youtu.be/rH0VeNN0DK8
 - [x] 177 Longest Common Subsequence (Lai) https://youtu.be/rgx3KUorjN8
 - [x] **2312 Selling Pieces of Wood** https://youtu.be/T4EJqM5xMxs
+<<<<<<< HEAD
 - [x] **137 Cutting Wood I (Lai)** 
 - [ ] **131 Palindrome Partitioning**
 - [ ] **132 Palindrome Partitioning II**
@@ -447,13 +448,57 @@ Cross-training IV
 - [ ] 202 Kth Smallest In Two Sorted Arrays (Lai)
 - [ ] 387 First Unique Character in a String
 - [ ] 288 First Non-Repeating Character In Stream (Lai)
+=======
+- [x] **137 Cutting Wood I (Lai)** https://youtu.be/o-dhf3ZQHHE
+- [x] **131 Palindrome Partitioning** https://youtu.be/LqE-vn2Lnlk
+- [x] **132 Palindrome Partitioning II** https://youtu.be/nZiu7zbpe88
+- [x] **143 Minimum Cuts For Palindromes (Lai)** https://youtu.be/G2aPOR6MWbY
+- [x] **464 Can I Win** https://youtu.be/ATbQnI7ycY8
+- [x] **375 Guess Number Higher or Lower II** https://youtu.be/THXy12oH85M
+- [x] **657 Can I Win II (Lai)** https://youtu.be/aXDSAyn5thE
+>>>>>>> origin/main
 
 
 Trie
 
-- [ ] 79 Word Search
-- [ ] 212 Word Search II
-- [ ] 431 Word Search II (Lai)
+- [x] **79 Word Search** https://youtu.be/U07fnpaDc44
+- [x] **212 Word Search II** https://youtu.be/8Cdv_9eufqk
+- [x] **431 Word Search II (Lai)** https://youtu.be/KywZ_yf1s1g
+
+Fixed Size Sliding Windows
+
+- [x] 713 Subarray Product Less Than K https://youtu.be/bpj5FIirBfY
+- [x] 1100 Find K-Length Substrings With No Repeated Characters https://youtu.be/v2Ej0dD66OU
+- [x] **438 Find All Anagrams in a String** https://youtu.be/WfuL9r8IFB8
+- [x] 3 Longest Substring Without Repeating Characters https://youtu.be/Zkgg875BCpM
+
+
+Cross-training IV
+- [x] 102 Binary Tree Level Order Traversal https://youtu.be/holLc1Pe1mY
+- [x] **103 Binary Tree Zigzag Level Order Traversal** https://youtu.be/JxFwJsArOFk
+- [x] 704 Binary Search https://youtu.be/uOA1Y6kP9Zo
+- [x] 14 Classical Binary Search (Lai) https://youtu.be/SpEjsK7DozU
+- [x] 374 Guess Number Higher or Lower https://youtu.be/7TVcGEdBgBw
+- [x] 215 Kth Largest Element in an Array https://youtu.be/e9J0Q6Qxx8c
+- [x] 25 K Smallest In Unsorted Array (Lai) https://youtu.be/hs0WqBhmYxk
+- [x] 438 Find All Anagrams in a String https://youtu.be/oWQrnOkhEMM
+- [x] **49 Group Anagrams** https://youtu.be/XcbzeJLGNgg
+- [x] 398 All Anagrams (Lai) https://youtu.be/wy4lEJeCwIc
+- [x] 203 Remove Linked List Elements https://youtu.be/_cO8bby1gIQ
+- [x] 414 Remove Linked List Elements (Lai) https://youtu.be/62ohd_23WvA
+- [x] 268 Missing Number https://youtu.be/u2QNyIpcSLQ
+- [x] 68 Missing Number I (Lai) https://youtu.be/vT5u_QqMAvI
+- [x] **146 LRU Cache** https://youtu.be/bnZz8uy323E
+- [x] 205 Implement LRU Cache (Lai) https://youtu.be/nw5vBWXiCfw
+- [x] 169 Majority Element https://youtu.be/OsoaWxD7lGE
+- [x] 229 Majority Element II https://youtu.be/B2SNgSVBLkY
+- [x] 206 Majority Number I (Lai) https://youtu.be/QIqaIVSJBVo
+- [x] 378 Kth Smallest Element in a Sorted Matrix https://youtu.be/TVJXUF_P1PI
+- [x] 202 Kth Smallest In Two Sorted Arrays (Lai) https://youtu.be/MJXWkV4VzKA
+- [x] 387 First Unique Character in a String https://youtu.be/Zq5ygAYkYLc
+- [x] 288 First Non-Repeating Character In Stream (Lai) https://youtu.be/UOo0-C7mi0o
+- [x] 560 Subarray Sum Equals K https://youtu.be/a8AO-Q7EMIs
+
 
 
 Cross-training V
@@ -462,8 +507,8 @@ Cross-training V
 - [ ] 198 Largest Rectangle In Histogram (Lai)
 - [ ] 239 Sliding Window Maximum
 - [ ] 204 Maximum Values Of Size K Sliding Windows (Lai)
-- [ ] 300 Longest Increasing Subsequence
-- [ ] 1 Longest Ascending Subsequence (Lai)
+- [x] 300 Longest Increasing Subsequence https://youtu.be/Mea7gUlAQ2M
+- [x] 1 Longest Ascending Subsequence (Lai) https://youtu.be/9OQVdtFFWQg
 - [ ] 85 Maximal Rectangle
 - [ ] 102 Largest Rectangle Of 1s (Lai)
 - [ ] 496 Next Greater Element I
@@ -476,26 +521,7 @@ Cross-training V
 - [ ] 276 Get Count Array (Lai)
 - [ ] 849 Maximize Distance to Closest Person
 - [ ] 2407 Longest Increasing Subsequence II
-
-Tips
-第一遍看完题目, 理解好, 直接看答案, 理解. 尝试写出来并通过.
-录视频, 不看答案, 自己写.
-
-第二遍不看答案写, 20分钟内写出来的pass. 没有的进行标注. 看答案, 继续重复第一遍的步骤
-
-第三遍不看答案写, 10分钟内写出来的pass, 没有的重复第二遍内容.
-
-第四遍只做标注过的题. 
-
-第五遍一题多解
-
-Jan 11
-Fixed Size Sliding Windows
-- [ ] 560 Subarray Sum Equals K
-- [ ] 713 Subarray Product Less Than K
-- [ ] 1100 Find K-Length Substrings With No Repeated Characters
-- [ ] 438 Find All Anagrams in a String
-- [ ] 3 Longest Substring Without Repeating Characters
+- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
 
 Biweekly Contest 121
 - [ ] 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
@@ -503,5 +529,14 @@ Biweekly Contest 121
 - [ ] 2998 Minimum Number of Operations to Make X and Y Equal
 - [ ] 2999 Count the Number of Powerful Integers
 
+Biweekly Contest 122
+- [ ] 3010 Divide an Array Into Subarrays With Minimum Cost I
+- [ ] 3011 Find if Array Can Be Sorted
+- [ ] 3012 Minimize Length of Array Using Operations
+- [ ] 3013 Divide an Array Into Subarrays With Minimum Cost II
 
-
+Biweekly Contest 123
+- [ ] 3024 Type of Triangle II
+- [ ] 3025 Find the Number of Ways to Place People I
+- [ ] 3026 Maximum Good Subarray Sum
+- [ ] 3027 Find the Number of Ways to Place People II
