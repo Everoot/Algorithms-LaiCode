@@ -473,7 +473,7 @@ Cross-training V
 - [x] 1 Longest Ascending Subsequence (Lai) https://youtu.be/9OQVdtFFWQg
 - [ ] 85 Maximal Rectangle
 - [ ] 102 Largest Rectangle Of 1s (Lai)
-- [ ] 496 Next Greater Element I
+- [x] 496 Next Greater Element I 
 - [ ] 503 Next Greater Element II
 - [ ] 556 Next Greater Element III
 - [ ] 678 Next Greater Number I(optional) (Lai)
