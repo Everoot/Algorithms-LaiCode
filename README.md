@@ -474,9 +474,9 @@ Cross-training V
 - [ ] 85 Maximal Rectangle
 - [ ] 102 Largest Rectangle Of 1s (Lai)
 - [x] 496 Next Greater Element I https://youtu.be/RdScbyXfkm0
-- [x] 503 Next Greater Element II https://youtu.be/ouhgmLcPK9c
+- [ ] 503 Next Greater Element II 
 - [ ] 556 Next Greater Element III
-- [ ] 678 Next Greater Number I(optional) (Lai)
+- [x] 678 Next Greater Number I(optional) (Lai) https://youtu.be/ouhgmLcPK9c
 - [ ] 315 Count of Smaller Numbers After Self
 - [ ] 2338 Count the Number of Ideal Arrays
 - [ ] 2148 Count Elements With Strictly Smaller and Greater Elements 
