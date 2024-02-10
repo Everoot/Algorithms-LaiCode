@@ -467,23 +467,23 @@ Cross-training V
 
 - [x] **84 Largest Rectangle in Histogram** https://youtu.be/6_1eiF8jszM
 - [x] 198 Largest Rectangle In Histogram (Lai) https://youtu.be/nPKT2vzuJGg
-- [x] 239 Sliding Window Maximum
+- [x] **239 Sliding Window Maximum**
 - [x] 204 Maximum Values Of Size K Sliding Windows (Lai)
 - [x] 300 Longest Increasing Subsequence https://youtu.be/Mea7gUlAQ2M
 - [x] 1 Longest Ascending Subsequence (Lai) https://youtu.be/9OQVdtFFWQg
-- [x] 85 Maximal Rectangle
+- [x] **85 Maximal Rectangle**
 - [ ] 102 Largest Rectangle Of 1s (Lai)
-- [x] 496 Next Greater Element I https://youtu.be/RdScbyXfkm0
-- [ ] 503 Next Greater Element II 
-- [ ] 556 Next Greater Element III
+- [x] **496 Next Greater Element I** https://youtu.be/RdScbyXfkm0
+- [ ] **503 Next Greater Element II **
+- [ ] **556 Next Greater Element III**
 - [x] 678 Next Greater Number I(optional) (Lai) https://youtu.be/ouhgmLcPK9c
-- [ ] 315 Count of Smaller Numbers After Self
+- [ ] **315 Count of Smaller Numbers After Self**
 - [ ] 2338 Count the Number of Ideal Arrays
-- [ ] 2148 Count Elements With Strictly Smaller and Greater Elements 
+- [ ] 2148 Count Elements With Strictly Smaller and Greater Elements
 - [ ] 276 Get Count Array (Lai)
-- [ ] 849 Maximize Distance to Closest Person
-- [ ] 2407 Longest Increasing Subsequence II
-- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
+- [ ] **849 Maximize Distance to Closest Person**
+- [ ] **2407 Longest Increasing Subsequence II**
+- [ ] **2040 Kth Smallest Product of Two Sorted Arrays**
 
 Biweekly Contest 121
 - [ ] 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
