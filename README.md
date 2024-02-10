@@ -467,8 +467,8 @@ Cross-training V
 
 - [x] **84 Largest Rectangle in Histogram** https://youtu.be/6_1eiF8jszM
 - [x] 198 Largest Rectangle In Histogram (Lai) https://youtu.be/nPKT2vzuJGg
-- [ ] 239 Sliding Window Maximum
-- [ ] 204 Maximum Values Of Size K Sliding Windows (Lai)
+- [x] 239 Sliding Window Maximum
+- [x] 204 Maximum Values Of Size K Sliding Windows (Lai)
 - [x] 300 Longest Increasing Subsequence https://youtu.be/Mea7gUlAQ2M
 - [x] 1 Longest Ascending Subsequence (Lai) https://youtu.be/9OQVdtFFWQg
 - [x] 85 Maximal Rectangle
