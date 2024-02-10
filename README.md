@@ -465,7 +465,7 @@ Cross-training IV
 
 Cross-training V
 
-- [x] **84 Largest Rectangle in Histogram**
+- [x] **84 Largest Rectangle in Histogram** https://youtu.be/6_1eiF8jszM
 - [x] 198 Largest Rectangle In Histogram (Lai)
 - [ ] 239 Sliding Window Maximum
 - [ ] 204 Maximum Values Of Size K Sliding Windows (Lai)
