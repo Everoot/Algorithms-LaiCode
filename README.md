@@ -479,7 +479,7 @@ Cross-training V
 - [x] 678 Next Greater Number I(optional) (Lai) https://youtu.be/ouhgmLcPK9c
 - [ ] **315 Count of Smaller Numbers After Self**
 - [ ] 2338 Count the Number of Ideal Arrays
-- [x] 2148 Count Elements With Strictly Smaller and Greater Elements
+- [x] 2148 Count Elements With Strictly Smaller and Greater Elements https://youtu.be/vMuL4dU6W2A
 - [ ] 276 Get Count Array (Lai)
 - [ ] **849 Maximize Distance to Closest Person**
 - [ ] **2407 Longest Increasing Subsequence II**
