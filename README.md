@@ -467,14 +467,14 @@ Cross-training V
 
 - [x] **84 Largest Rectangle in Histogram** https://youtu.be/6_1eiF8jszM
 - [x] 198 Largest Rectangle In Histogram (Lai) https://youtu.be/nPKT2vzuJGg
-- [x] **239 Sliding Window Maximum**
-- [x] 204 Maximum Values Of Size K Sliding Windows (Lai)
+- [x] **239 Sliding Window Maximum** https://youtu.be/_FNYBdnhEus
+- [x] 204 Maximum Values Of Size K Sliding Windows (Lai) https://youtu.be/3lAhdzurQC4
 - [x] 300 Longest Increasing Subsequence https://youtu.be/Mea7gUlAQ2M
 - [x] 1 Longest Ascending Subsequence (Lai) https://youtu.be/9OQVdtFFWQg
 - [x] **85 Maximal Rectangle**
 - [ ] 102 Largest Rectangle Of 1s (Lai)
 - [x] **496 Next Greater Element I** https://youtu.be/RdScbyXfkm0
-- [ ] **503 Next Greater Element II **
+- [ ] **503 Next Greater Element II**
 - [ ] **556 Next Greater Element III**
 - [x] 678 Next Greater Number I(optional) (Lai) https://youtu.be/ouhgmLcPK9c
 - [ ] **315 Count of Smaller Numbers After Self**
