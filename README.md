@@ -471,8 +471,8 @@ Cross-training V
 - [x] 204 Maximum Values Of Size K Sliding Windows (Lai) https://youtu.be/3lAhdzurQC4
 - [x] 300 Longest Increasing Subsequence https://youtu.be/Mea7gUlAQ2M
 - [x] 1 Longest Ascending Subsequence (Lai) https://youtu.be/9OQVdtFFWQg
-- [x] **85 Maximal Rectangle**
-- [x] 102 Largest Rectangle Of 1s (Lai)
+- [x] **85 Maximal Rectangle** https://youtu.be/dBBkaKsfawI
+- [x] 102 Largest Rectangle Of 1s (Lai) https://youtu.be/NVNtBamaBdo
 - [x] **496 Next Greater Element I** https://youtu.be/RdScbyXfkm0
 - [ ] **503 Next Greater Element II**
 - [ ] **556 Next Greater Element III**
