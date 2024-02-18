@@ -481,6 +481,54 @@ Cross-training V
 - [x] 2148 Count Elements With Strictly Smaller and Greater Elements https://youtu.be/vMuL4dU6W2A
 - [ ] 276 Get Count Array (Lai)
 
+# Neetcode
+## Blind 75
+### Arrays & Hashing
+- [ ] 217 Contains Duplicate 
+- [ ] Valid Anagram 
+- [ ] Two Sum
+- [ ] Group Anagrams
+- [ ] Top K Frequent Elements
+- [ ] Product of Array Except Self
+- [ ] Encode and Decode Strings
+- [ ] Longest Consecutive Sequence 
+
+
+### Two Pointers
+
+### Sliding Window
+
+### Stack
+
+### Binary Search
+
+### Linked List
+
+### Trees
+
+### Tries
+
+### Heap/Priority Queue
+
+### Backtracking
+
+### Graphs
+
+### Advanced Graphs
+
+### 1-D Dynamic Programming
+
+### 2-D Dynamic Programming
+
+### Greedy
+
+### Intervals
+
+### Math & Geometry
+
+### Bit Manipulation
+
+### JavaScript
 
 Hard
 
