@@ -1,4 +1,12 @@
-# [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+---
+tags:
+    - Array
+    - Hash Table
+    - Stack
+    - Monotonic Stack
+---
+
+# [496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 
 The **next greater element** of some element `x` in an array is the **first greater** element that is **to the right** of `x` in the same array.
 
@@ -36,30 +44,36 @@ Explanation: The next greater element for each value of nums1 is as follows:
 **Solution:**
 
 ```java
-public class Solution {
+class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int[] res = new int[nums1.length];
-        int j;
-    
-        for (int i = 0; i < nums1.length; i++) {
+        int[] result = new int[nums1.length];
+
+        int j; 
+
+        for (int i = 0; i < nums1.length; i++){
+            result[i] = -1;
+
+        }
+        for (int i = 0; i < nums1.length; i++){
             boolean found = false;
-            for (j = 0; j < nums2.length; j++) {
-                if (found && nums2[j] > nums1[i]) {
-                    res[i] = nums2[j];
+            for (j = 0; j < nums2.length; j++){
+                if (found && nums2[j] > nums1[i]){
+                    result[i] = nums2[j];
                     break;
                 }
-    
-                if (nums2[j] == nums1[i]) {
+
+                if (nums1[i] == nums2[j]){
                     found = true;
                 }
             }
-            if (j == nums2.length) {
-                res[i] = -1;
-            }
         }
-    
-        return res;
+
+        return result;
+        
     }
 }
+
+// TC: O(m*n)
+// SC: O(n)
 ```
 
