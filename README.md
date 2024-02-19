@@ -465,25 +465,77 @@ Cross-training IV
 
 Cross-training V
 
-- [ ] 84 Largest Rectangle in Histogram
-- [ ] 198 Largest Rectangle In Histogram (Lai)
-- [ ] 239 Sliding Window Maximum
-- [ ] 204 Maximum Values Of Size K Sliding Windows (Lai)
+- [x] **84 Largest Rectangle in Histogram** https://youtu.be/6_1eiF8jszM
+- [x] 198 Largest Rectangle In Histogram (Lai) https://youtu.be/nPKT2vzuJGg
+- [x] **239 Sliding Window Maximum** https://youtu.be/_FNYBdnhEus
+- [x] 204 Maximum Values Of Size K Sliding Windows (Lai) https://youtu.be/3lAhdzurQC4
 - [x] 300 Longest Increasing Subsequence https://youtu.be/Mea7gUlAQ2M
 - [x] 1 Longest Ascending Subsequence (Lai) https://youtu.be/9OQVdtFFWQg
-- [ ] 85 Maximal Rectangle
-- [ ] 102 Largest Rectangle Of 1s (Lai)
-- [ ] 496 Next Greater Element I
-- [ ] 503 Next Greater Element II
-- [ ] 556 Next Greater Element III
-- [ ] 678 Next Greater Number I(optional) (Lai)
-- [ ] 315 Count of Smaller Numbers After Self
-- [ ] 2338 Count the Number of Ideal Arrays
-- [ ] 2148 Count Elements With Strictly Smaller and Greater Elements 
+- [x] **85 Maximal Rectangle** https://youtu.be/dBBkaKsfawI
+- [x] 102 Largest Rectangle Of 1s (Lai) https://youtu.be/NVNtBamaBdo
+- [x] **496 Next Greater Element I** https://youtu.be/RdScbyXfkm0
+- [ ] **503 Next Greater Element II**
+- [ ] **556 Next Greater Element III**
+- [x] 678 Next Greater Number I(optional) (Lai) https://youtu.be/ouhgmLcPK9c
+- [ ] **315 Count of Smaller Numbers After Self**
+- [x] 2148 Count Elements With Strictly Smaller and Greater Elements https://youtu.be/vMuL4dU6W2A
 - [ ] 276 Get Count Array (Lai)
-- [ ] 849 Maximize Distance to Closest Person
-- [ ] 2407 Longest Increasing Subsequence II
-- [ ] 2040 Kth Smallest Product of Two Sorted Arrays
+
+# Neetcode
+## Blind 75
+### Arrays & Hashing
+- [ ] 217 Contains Duplicate 
+- [ ] Valid Anagram 
+- [ ] Two Sum
+- [ ] Group Anagrams
+- [ ] Top K Frequent Elements
+- [ ] Product of Array Except Self
+- [ ] Encode and Decode Strings
+- [ ] Longest Consecutive Sequence 
+
+
+### Two Pointers
+
+### Sliding Window
+
+### Stack
+
+### Binary Search
+
+### Linked List
+
+### Trees
+
+### Tries
+
+### Heap/Priority Queue
+
+### Backtracking
+
+### Graphs
+
+### Advanced Graphs
+
+### 1-D Dynamic Programming
+
+### 2-D Dynamic Programming
+
+### Greedy
+
+### Intervals
+
+### Math & Geometry
+
+### Bit Manipulation
+
+### JavaScript
+
+Hard
+
+- [ ] **849 Maximize Distance to Closest Person**
+- [ ] **2040 Kth Smallest Product of Two Sorted Arrays**
+- [ ] **2338 Count the Number of Ideal Arrays**
+- [ ] **2407 Longest Increasing Subsequence II**
 
 Biweekly Contest 121
 - [ ] 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum
