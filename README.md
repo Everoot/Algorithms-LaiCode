@@ -474,8 +474,8 @@ Cross-training V
 - [x] **85 Maximal Rectangle** https://youtu.be/dBBkaKsfawI
 - [x] 102 Largest Rectangle Of 1s (Lai) https://youtu.be/NVNtBamaBdo
 - [x] **496 Next Greater Element I** https://youtu.be/RdScbyXfkm0
-- [ ] **503 Next Greater Element II**
-- [ ] **556 Next Greater Element III**
+- [x] **503 Next Greater Element II**
+- [x] **556 Next Greater Element III**
 - [x] 678 Next Greater Number I(optional) (Lai) https://youtu.be/ouhgmLcPK9c
 - [ ] **315 Count of Smaller Numbers After Self**
 - [x] 2148 Count Elements With Strictly Smaller and Greater Elements https://youtu.be/vMuL4dU6W2A
