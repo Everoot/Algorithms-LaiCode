@@ -470,7 +470,7 @@ Cross-training V
 - [x] **503 Next Greater Element II** https://youtu.be/VSas0XBPTuc
 - [x] **556 Next Greater Element III** https://youtu.be/C5y-E4jJQpE
 - [x] 678 Next Greater Number I(optional) (Lai) https://youtu.be/ouhgmLcPK9c
-- [ ] **315 Count of Smaller Numbers After Self**
+- [x] **315 Count of Smaller Numbers After Self** https://youtu.be/bX36G_P83W4
 - [x] 2148 Count Elements With Strictly Smaller and Greater Elements https://youtu.be/vMuL4dU6W2A
 - [ ] 276 Get Count Array (Lai)
 
